@@ -12,7 +12,7 @@
 [Librispeech](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/audio/librispeech.py)
 
 ## Referencias
-[2013 - Speech Recognition with Deep Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icassp_2013.pdf
+[2013 - Speech Recognition with Deep Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icassp_2013.pdf)
 
 [2014 - Deep Speech: Scaling up end-to-end speech recognition](https://arxiv.org/abs/1412.5567)
 
