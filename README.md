@@ -11,6 +11,11 @@
 ## Scripts
 [Librispeech](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/audio/librispeech.py)
 
+## Respositorios
+[Deep Speech - Mozilla](https://github.com/mozilla/DeepSpeech)
+
+[Deep Speech - Paddle](https://github.com/PaddlePaddle/DeepSpeech)
+
 ## Referencias
 [2013 - Speech Recognition with Deep Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icassp_2013.pdf)
 
