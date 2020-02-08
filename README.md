@@ -1,7 +1,7 @@
 # TFM: Redes Neuronales Recurrentes Aplicadas a Reconocimiento de Voz
 
 ## Cuadernos
-[TEDx Spanish EDA]()
+[TEDx Spanish EDA](https://gist.github.com/gabrielsanchez/5004077344f82905c799434875d31104)
 
 ## Corpus
 [TEDx Spanish Corpus](https://openslr.org/67/)
