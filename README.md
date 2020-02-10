@@ -14,6 +14,10 @@
 
 [css10](https://github.com/Kyubyong/css10)
 
+[Common Voice](https://voice.mozilla.org/en/datasets)
+
+[Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
+
 ## Scripts
 [Librispeech](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/audio/librispeech.py)
 
