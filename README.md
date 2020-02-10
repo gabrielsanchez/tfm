@@ -8,6 +8,12 @@
 
 [LibriVox Spanish](https://catalog.ldc.upenn.edu/LDC2020S01/)
 
+[120h Spanish Speech LibriVox](https://www.kaggle.com/carlfm01/120h-spanish-speech/)
+
+[Spanish Single Speaker Speech Dataset](https://www.kaggle.com/bryanpark/spanish-single-speaker-speech-dataset)
+
+[css10](https://github.com/Kyubyong/css10)
+
 ## Scripts
 [Librispeech](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/audio/librispeech.py)
 
