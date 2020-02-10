@@ -14,6 +14,8 @@
 
 [css10](https://github.com/Kyubyong/css10)
 
+[M-AILABS](https://github.com/nahuelproietto/deepspeech-spanish-model)
+
 [Common Voice](https://voice.mozilla.org/en/datasets)
 
 [Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
