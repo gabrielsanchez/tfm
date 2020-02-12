@@ -28,6 +28,8 @@
 
 [Deep Speech - Paddle](https://github.com/PaddlePaddle/DeepSpeech)
 
+[EspNet](https://espnet.github.io/espnet/)
+
 ## Referencias
 [2013 - Speech Recognition with Deep Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icassp_2013.pdf)
 
