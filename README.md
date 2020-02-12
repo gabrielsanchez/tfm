@@ -32,6 +32,8 @@
 
 [Wer are we](https://github.com/syhw/wer_are_we)
 
+[Kaldi](https://github.com/kaldi-asr/kaldi)
+
 ## Referencias
 [2013 - Speech Recognition with Deep Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icassp_2013.pdf)
 
