@@ -30,6 +30,8 @@
 
 [EspNet](https://espnet.github.io/espnet/)
 
+[Wer are we](https://github.com/syhw/wer_are_we)
+
 ## Referencias
 [2013 - Speech Recognition with Deep Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icassp_2013.pdf)
 
