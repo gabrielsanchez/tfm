@@ -34,6 +34,8 @@
 
 [Kaldi](https://github.com/kaldi-asr/kaldi)
 
+[wav2letter](https://github.com/facebookresearch/wav2letter)
+
 ## Referencias
 [2013 - Speech Recognition with Deep Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icassp_2013.pdf)
 
