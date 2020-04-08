@@ -50,3 +50,5 @@
 [2019 - Speech to Text con Tensorflow - Data Hack](https://www.datahack.es/speech-to-text-tensorflow-modelo-datahack/)
 
 [2019 - Deep Learning for NLP and Speech Recognition](https://link.springer.com/book/10.1007/978-3-030-14596-5)
+
+[Transfer Learning different languages](https://discourse.mozilla.org/t/transfer-learning-between-different-languages/36842/7)
