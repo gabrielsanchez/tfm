@@ -54,3 +54,5 @@
 [Transfer Learning different languages](https://discourse.mozilla.org/t/transfer-learning-between-different-languages/36842/7)
 
 [Transfer Learning Deep Speech documentation](https://raw.githubusercontent.com/JRMeyer/DeepSpeech/transfer-learning-docs/doc/TRAINING.rst)
+
+[Multilingual Dataset Cleaner](https://discourse.mozilla.org/t/multilingual-dataset-combiner-cleaner/34788)
