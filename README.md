@@ -51,6 +51,8 @@
 
 [2019 - Deep Learning for NLP and Speech Recognition](https://link.springer.com/book/10.1007/978-3-030-14596-5)
 
+[2018 - German End-to-end speech recognition based on DeepSpeech](https://www.researchgate.net/publication/336532830_German_End-to-end_Speech_Recognition_based_on_DeepSpeech/link/5da4b459a6fdcc8fc35277ec/download)
+
 [Transfer Learning different languages](https://discourse.mozilla.org/t/transfer-learning-between-different-languages/36842/7)
 
 [Transfer Learning Deep Speech documentation](https://raw.githubusercontent.com/JRMeyer/DeepSpeech/transfer-learning-docs/doc/TRAINING.rst)
