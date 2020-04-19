@@ -20,6 +20,9 @@
 
 [Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
 
+## Language Model
+[Spanish LM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
+
 ## Scripts
 [Librispeech](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/audio/librispeech.py)
 
