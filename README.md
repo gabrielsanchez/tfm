@@ -20,6 +20,8 @@
 
 [Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
 
+[Tatoeba](https://tatoeba.org/eng/audio/index/spa)
+
 ## Language Model
 [Spanish LM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
 
