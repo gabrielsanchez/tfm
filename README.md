@@ -58,6 +58,8 @@
 
 [2018 - German End-to-end speech recognition based on DeepSpeech](https://www.researchgate.net/publication/336532830_German_End-to-end_Speech_Recognition_based_on_DeepSpeech/link/5da4b459a6fdcc8fc35277ec/download)
 
+[2019 - Multi-task and transfer learning in low-resource speech recognition](http://jrmeyer.github.io/misc/MEYER_dissertation_2019.pdf)
+
 [Transfer Learning different languages](https://discourse.mozilla.org/t/transfer-learning-between-different-languages/36842/7)
 
 [Transfer Learning Deep Speech documentation](https://raw.githubusercontent.com/JRMeyer/DeepSpeech/transfer-learning-docs/doc/TRAINING.rst)
