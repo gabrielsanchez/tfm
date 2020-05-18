@@ -4,13 +4,20 @@
 [TEDx Spanish EDA](https://gist.github.com/gabrielsanchez/5004077344f82905c799434875d31104)
 
 ## Corpus
-[TEDx Spanish Corpus](https://openslr.org/67/)
 
-[LibriVox Spanish](https://catalog.ldc.upenn.edu/LDC2020S01/)
+### Download
+
+[Tatoeba](https://www.kaggle.com/gabrielsanchez/tatoeba-spanish-speech-dataset)
+
+[TEDx Spanish Corpus](https://openslr.org/67/)
 
 [120h Spanish Speech LibriVox](https://www.kaggle.com/carlfm01/120h-spanish-speech/)
 
+[Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
+
 [Spanish Single Speaker Speech Dataset](https://www.kaggle.com/bryanpark/spanish-single-speaker-speech-dataset)
+
+### Sources
 
 [css10](https://github.com/Kyubyong/css10)
 
@@ -18,9 +25,9 @@
 
 [Common Voice](https://voice.mozilla.org/en/datasets)
 
-[Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
-
 [Tatoeba](https://tatoeba.org/eng/audio/index/spa)
+
+[LibriVox Spanish](https://catalog.ldc.upenn.edu/LDC2020S01/)
 
 ## Language Model
 [Spanish LM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
