@@ -1,5 +1,5 @@
 # Redes Neuronales Recurrentes: Aplicación a la diversidad funcional
-## Trabajo Fin de Máster - UIMP - AEPIA
+#### Trabajo Fin de Máster - UIMP - AEPIA
 
 ## Modelo Final
 Estos son los archivos necesarios para utilizar el modelo
@@ -31,9 +31,13 @@ Estos son cuadernos que se utilizaron para analizar datasets, crear datasets y e
 [TEDx Spanish EDA](https://gist.github.com/gabrielsanchez/5004077344f82905c799434875d31104)
 
 ## Flags
-[commonvoice-librivox-tatoeba-voxforge]()
+[commonvoice-librivox-tatoeba-voxforge](https://github.com/gabrielsanchez/tfm/blob/master/flags-cltv)
 
-[transfer learning]()
+[transfer learning](https://github.com/gabrielsanchez/tfm/blob/master/flags-transferlearning)
+
+## Outputs
+
+
 
 ## Corpus
 
