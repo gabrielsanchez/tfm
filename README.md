@@ -36,7 +36,13 @@ Estos son cuadernos que se utilizaron para analizar datasets, crear datasets y e
 [transfer learning](https://github.com/gabrielsanchez/tfm/blob/master/flags-transferlearning)
 
 ## Outputs
+[Transfer Learning](https://github.com/gabrielsanchez/tfm/blob/master/output-transferlearning)
 
+[Synthetic Speech](https://github.com/gabrielsanchez/tfm/blob/master/output-syntheticspeech)
+
+[Librivox](https://github.com/gabrielsanchez/tfm/blob/master/output-librivox)
+
+[Common Voice - Librivox - Voxforge - Tatoeba](https://github.com/gabrielsanchez/tfm/blob/master/output-commonvoice-librivox-voxforge-tatoeba)
 
 
 ## Corpus
