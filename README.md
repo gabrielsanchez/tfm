@@ -1,23 +1,40 @@
-# TFM: Redes Neuronales Recurrentes Aplicadas a Reconocimiento de Voz
+# TFM: Redes Neuronales Recurrentes: Aplicación a la diversidad funcional
+
+## Modelo Final
+Estos son los archivos necesarios para utilizar el modelo
+
+[Modelo]()
+[Scorer]()
+
 
 ## Cuadernos
+Estos son cuadernos que se utilizaron para analizar datasets, crear datasets y entrenar modelos.
+
+[Transfer Learning](https://gist.github.com/gabrielsanchez/274f9531b8069dbc84a747c68f8fffe5)
+
 [TEDx Spanish EDA](https://gist.github.com/gabrielsanchez/5004077344f82905c799434875d31104)
 
 ## Corpus
+
+Estos son los datasets. Tatoeba y Synth Speech se crearon a partir de este proyecto y los demás ya estaban disponibles.
 
 ### Download
 
 [Tatoeba](https://www.kaggle.com/gabrielsanchez/tatoeba-spanish-speech-dataset)
 
-[TEDx Spanish Corpus](https://openslr.org/67/)
-
 [120h Spanish Speech LibriVox](https://www.kaggle.com/carlfm01/120h-spanish-speech/)
 
 [Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
 
+[Synthetic Spanish]()
+
+
+#### Otros datasets que no se usaron:
+[TEDx Spanish Corpus](https://openslr.org/67/)
+
 [Spanish Single Speaker Speech Dataset](https://www.kaggle.com/bryanpark/spanish-single-speaker-speech-dataset)
 
-### Sources
+#### Sources
 
 [css10](https://github.com/Kyubyong/css10)
 
@@ -29,8 +46,8 @@
 
 [LibriVox Spanish](https://catalog.ldc.upenn.edu/LDC2020S01/)
 
-## Language Model
-[Spanish LM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
+## Modelo de Lenguaje
+[Spanish Billion Word Corpus](https://crscardellino.github.io/SBWCE/)
 
 ## Scripts
 [Librispeech](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/audio/librispeech.py)
