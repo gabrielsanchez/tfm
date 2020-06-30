@@ -2,7 +2,7 @@
 #### Trabajo Fin de Máster - UIMP - AEPIA
 
 ## Modelo Final
-Estos son los archivos necesarios para utilizar el modelo
+Estos son los archivos necesarios para utilizar el modelo. Estos archivos son compatibles con DeepSpeech v0.7
 
 [Modelo](https://dl.dropbox.com/s/22yncf3cbiwgqat/output_graph.pb)
 
