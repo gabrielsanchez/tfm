@@ -10,7 +10,17 @@ Estos son los archivos necesarios para utilizar el modelo
 ## Cuadernos
 Estos son cuadernos que se utilizaron para analizar datasets, crear datasets y entrenar modelos.
 
+[Crear dataset text-to-speech con AWS Polly]()
+
+[Crear dataset a partir de Videos de Youtube]()
+
+[Juntar Datasets](https://gist.github.com/gabrielsanchez/88c91ab13c1ff46112dfd0e7adb56157)
+
+[Análisis comparativo Synthetic Speech](https://gist.github.com/gabrielsanchez/063ab3574252bf7883be3285be4cea19)
+
 [Transfer Learning](https://gist.github.com/gabrielsanchez/274f9531b8069dbc84a747c68f8fffe5)
+
+[Tatoeba EDA](https://gist.github.com/gabrielsanchez/b0cb78ec7ed112e1aaaa32ac3e5032e9)
 
 [TEDx Spanish EDA](https://gist.github.com/gabrielsanchez/5004077344f82905c799434875d31104)
 
