@@ -1,4 +1,5 @@
-# TFM: Redes Neuronales Recurrentes: Aplicación a la diversidad funcional
+# Redes Neuronales Recurrentes: Aplicación a la diversidad funcional
+## Trabajo Fin de Máster - UIMP - AEPIA
 
 ## Modelo Final
 Estos son los archivos necesarios para utilizar el modelo
