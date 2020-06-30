@@ -4,17 +4,17 @@
 ## Modelo Final
 Estos son los archivos necesarios para utilizar el modelo
 
-[Modelo]()
+[Modelo](https://dl.dropbox.com/s/22yncf3cbiwgqat/output_graph.pb)
 
-[Scorer]()
+[Scorer](https://drive.google.com/file/d/1w3aygC7iWuo8elFDaabuilA1KRz6tXyJ/view?usp=sharing)
 
 
 ## Cuadernos
 Estos son cuadernos que se utilizaron para analizar datasets, crear datasets y entrenar modelos.
 
-[Crear dataset text-to-speech con AWS Polly]()
+[Crear dataset text-to-speech con AWS Polly](https://gist.github.com/gabrielsanchez/0226b2e057f1754b5e685b735b3e2c55)
 
-[Crear dataset a partir de Videos de Youtube]()
+[Crear dataset a partir de Videos de Youtube](https://gist.github.com/gabrielsanchez/882302da0b5451e3b2f230069a48b17b)
 
 [Comparación de Modelos de Lenguaje](https://gist.github.com/gabrielsanchez/49fbee3b9d9e97bb7980a4ac9191ee3d)
 
@@ -57,7 +57,9 @@ Estos son los datasets. Tatoeba y Synth Speech se crearon a partir de este proye
 
 [Common Voice ES dataset](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-4-2019-12-10/es.tar.gz)
 
-[Synthetic Spanish]()
+[VoxForge]()
+
+[Synthetic Spanish](https://www.kaggle.com/gabrielsanchez/synthetic-spanish-speech)
 
 
 #### Otros datasets que no se usaron:
