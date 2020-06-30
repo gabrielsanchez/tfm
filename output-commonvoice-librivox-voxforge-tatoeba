@@ -1,0 +1,2628 @@
+Testing model on datasets/libritest.csv
+Test epoch | Steps: 0 | Elapsed Time: 0:00:00                                     
+
+
+Test epoch | Steps: 564 | Elapsed Time: 1:27:04                                   
+Test on datasets/libritest.csv - WER: 0.151130, CER: 0.052092, loss: 22.224266
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.500000, loss: 38.680489
+ - wav: file:///home/gabriel/datasets/librixox-dataset/060/1495c9ff-b8cb-4248-be35-b1c2641c68b7.wav
+ - src: "norbaitec ará laster aguró iguesi indezala"
+ - res: "morvai tocara las teagudo y así de saga"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.468085, loss: 52.282410
+ - wav: file:///home/gabriel/datasets/librixox-dataset/133/ed225bbe-7378-4b1d-bbc7-6c0dd14d8de8.wav
+ - src: "eztute oriyec cambiatuco gure jaungoicaren itzá"
+ - res: "esto te curie cambiato o more aun cocaleca"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.428571, loss: 53.317234
+ - wav: file:///home/gabriel/datasets/librixox-dataset/198/196cbe12-d6d1-42f3-b9d2-8f67f2a1547b.wav
+ - src: "interrumpida la conversación en este punto"
+ - res: "es un pida a la conversión muy estepona"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.304348, loss: 15.255571
+ - wav: file:///home/gabriel/datasets/librixox-dataset/023/1afc21f9-ce62-4308-a3c1-f8ae661e2325.wav
+ - src: "argensola leería por él"
+ - res: "hacen sola le iría por el"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.647059, loss: 24.612478
+ - wav: file:///home/gabriel/datasets/librixox-dataset/207/239074bc-7191-45d9-9c4e-73d57e28c775.wav
+ - src: "su madre lo sabrá"
+ - res: "suma de ellos a gran"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.555556, loss: 24.948053
+ - wav: file:///home/gabriel/datasets/librixox-dataset/073/9cf8ba6e-eb14-47a9-bd18-5789c80f2a73.wav
+ - src: "llamábanle el tío francisco"
+ - res: "y amaban le piurensis co"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.500000, loss: 33.232517
+ - wav: file:///home/gabriel/datasets/librixox-dataset/140/06e0b5a2-0374-462c-a5c3-d3f221b1b0f8.wav
+ - src: "usted merece ser dichosa"
+ - res: "un tema de se servicios"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.478261, loss: 30.044737
+ - wav: file:///home/gabriel/datasets/librixox-dataset/030/81a9ebd5-8011-41e5-9677-cb42e6974f87.wav
+ - src: "pero te daré otra noche"
+ - res: "y lo que daría tras noche y"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.363636, loss: 30.163202
+ - wav: file:///home/gabriel/datasets/librixox-dataset/017/6889beea-a70d-46f0-95bd-6ef006be7c00.wav
+ - src: "que formaban un arabesco violáceo"
+ - res: "que formaban una graves con la la fe"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.404762, loss: 44.186436
+ - wav: file:///home/gabriel/datasets/librixox-dataset/031/b3468dc0-e9e8-421e-a85f-8d50ce5fef8d.wav
+ - src: "neptuno sí buen tuno estás hecho tú hombre"
+ - res: "la tno se mantuvo esta echo tu hambre d"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.285714, loss: 12.528311
+ - wav: file:///home/gabriel/datasets/librixox-dataset/051/5f4f6825-04cd-4ed2-a98f-ca0ab3d5d6a6.wav
+ - src: "que casi no es pecado"
+ - res: "qué casino este cabo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.281250, loss: 14.571513
+ - wav: file:///home/gabriel/datasets/librixox-dataset/093/9c11ab44-de26-4820-aad6-e563d6549b64.wav
+ - src: "sino ha de oírlos y contentarlos"
+ - res: "sin adeudos y contentar los"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.304348, loss: 16.063818
+ - wav: file:///home/gabriel/datasets/librixox-dataset/144/0bb2d28b-30e6-4e62-872d-ac336dad6827.wav
+ - src: "yoringel miró a yorinda"
+ - res: "yo dije miro a lorinda"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.194444, loss: 16.361103
+ - wav: file:///home/gabriel/datasets/librixox-dataset/150/44da6c73-1e5d-44f6-a7c9-ba5ae06ec07a.wav
+ - src: "alarmada hasta lo sumo la conciencia"
+ - res: "a la armada hasta los humala conciencia"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.250000, loss: 19.894171
+ - wav: file:///home/gabriel/datasets/librixox-dataset/013/5732ad38-6820-49bd-aea9-7a6e97f6d621.wav
+ - src: "y salvaremos asimismo al heraldo medonte"
+ - res: "y salvaremos a si mismo alegando de dónde"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.250000, loss: 20.026680
+ - wav: file:///home/gabriel/datasets/librixox-dataset/013/8c7a9315-6f8d-4de3-9663-ae719f256cfc.wav
+ - src: "delfines y bustos de náyades"
+ - res: "el finés y bustos de aya de s"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.263158, loss: 21.340387
+ - wav: file:///home/gabriel/datasets/librixox-dataset/061/2897a3bf-0358-43c5-ab73-a9bde2f481c0.wav
+ - src: "allí pasarem la nit"
+ - res: "allí pasar en el mit"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.342105, loss: 23.231224
+ - wav: file:///home/gabriel/datasets/librixox-dataset/163/59f4d66b-2e4a-4388-9137-36dfc79b2c1d.wav
+ - src: "te quies callar ya samartelarán dentro"
+ - res: "te quita la ya a marte la dandentro"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.269231, loss: 23.373236
+ - wav: file:///home/gabriel/datasets/librixox-dataset/124/4ffff522-8292-4dd8-90bb-3a6ddeaa7e98.wav
+ - src: "red que satanás nos tiende"
+ - res: "es que se atan as los tiende"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.666667, loss: 24.156235
+ - wav: file:///home/gabriel/datasets/librixox-dataset/224/30a2bfa9-e5a3-43bf-9d99-98f8f0a7b2c0.wav
+ - src: "ser o no ser"
+ - res: "se desconose"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.423077, loss: 24.516390
+ - wav: file:///home/gabriel/datasets/librixox-dataset/180/3ae526c4-d7b8-4ad0-9e3d-0f9db8db1bdc.wav
+ - src: "si quieres hacerlo después"
+ - res: "si quiere asesores fué es"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.333333, loss: 29.859423
+ - wav: file:///home/gabriel/datasets/librixox-dataset/220/8cfe5b8f-0e9f-4e24-a62d-1d713218e8a2.wav
+ - src: "vete hija ya debe de ser tarde"
+ - res: "ve de hija a la del desertar de"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.466667, loss: 29.912201
+ - wav: file:///home/gabriel/datasets/librixox-dataset/138/363f1d49-2183-40c7-a1ff-41d573f25aa2.wav
+ - src: "díselo a tu amo"
+ - res: "dice la tuama"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.272727, loss: 30.247627
+ - wav: file:///home/gabriel/datasets/librixox-dataset/036/bb9cf70d-0ad7-46cc-b832-d110567088de.wav
+ - src: "vuestra merced lo verá"
+ - res: "pues a merced no era"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.368421, loss: 31.641769
+ - wav: file:///home/gabriel/datasets/librixox-dataset/184/98f0d080-e6c6-446d-bf37-20fae5496c5a.wav
+ - src: "allá está en bidart"
+ - res: "allasta envidar"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 33.406601
+ - wav: file:///home/gabriel/datasets/librixox-dataset/155/8a766505-d472-49e8-b1ca-18cf277989fe.wav
+ - src: "vendo barato a usted"
+ - res: "yendo a la soste"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.228571, loss: 34.172108
+ - wav: file:///home/gabriel/datasets/librixox-dataset/154/f0cc4108-e2bd-4634-b8c8-a8c874c33d0a.wav
+ - src: "quién pusiera límite al pensamiento"
+ - res: "que en poseer a limita al pensamiento"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.512821, loss: 35.626865
+ - wav: file:///home/gabriel/datasets/librixox-dataset/087/2a4e8ddd-e396-48ed-9c7b-5c7b27c1f369.wav
+ - src: "a las cuchufletas respondía con chanzas"
+ - res: "a los coches eta los comieron santos"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.464286, loss: 35.787132
+ - wav: file:///home/gabriel/datasets/librixox-dataset/065/9bc4c875-ca74-42dc-aee0-72dab7671f89.wav
+ - src: "qué os pasa qué tenéis tengo"
+ - res: "la tasa que tenéis que no "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.400000, loss: 35.918865
+ - wav: file:///home/gabriel/datasets/librixox-dataset/203/d199d23e-cdad-4fe8-aea3-ae24a577aa25.wav
+ - src: "haciéndoles un gran saludo buenas noches"
+ - res: "asia no le es un gran saludo varano che "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.236842, loss: 36.449486
+ - wav: file:///home/gabriel/datasets/librixox-dataset/040/25a68200-9784-4b51-a36c-da5818d355ad.wav
+ - src: "para respirar el airecillo regenerador"
+ - res: "se respira en la decillo regenerador"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.261905, loss: 37.329510
+ - wav: file:///home/gabriel/datasets/librixox-dataset/032/a75e5304-14b9-4669-949c-787779aa4802.wav
+ - src: "extraviándome en la arboleda y hundiéndome"
+ - res: "extraviando me en la bolera y un viéndome en"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.302326, loss: 39.804672
+ - wav: file:///home/gabriel/datasets/librixox-dataset/115/8e30e062-b2b0-4d82-babb-af09eaa7de75.wav
+ - src: "con regalos grandes castigábais mis delitos"
+ - res: "con regadera es castigada es mi delito"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.347826, loss: 41.098244
+ - wav: file:///home/gabriel/datasets/librixox-dataset/173/30300d4c-0edc-42b5-a31a-94f772d27807.wav
+ - src: "lo rescataré a sablazos"
+ - res: "los escapare tablazos "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.629630, loss: 41.664978
+ - wav: file:///home/gabriel/datasets/librixox-dataset/096/60791126-d9ac-47cb-b214-b97f3a262313.wav
+ - src: "un arquitecto y un literato"
+ - res: "una cita taitana to"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.363636, loss: 41.790546
+ - wav: file:///home/gabriel/datasets/librixox-dataset/168/c4035718-23b9-4463-84ea-25f845b0b8dc.wav
+ - src: "y empeñado en aparentar otra cosa"
+ - res: "i empeña una para en tatra cosa"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.307692, loss: 42.836338
+ - wav: file:///home/gabriel/datasets/librixox-dataset/172/e237d948-c3cb-45b9-8a69-0fa99e78b1c9.wav
+ - src: "un alférez sacudía los árboles frutales"
+ - res: "una alferza curia los arboles su tales"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.560000, loss: 43.332600
+ - wav: file:///home/gabriel/datasets/librixox-dataset/048/fd78b0b0-e1e4-4202-91a6-feb83f8bfe20.wav
+ - src: "beber hielo y besar nieve"
+ - res: "deberían idear ni"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.392857, loss: 43.642056
+ - wav: file:///home/gabriel/datasets/librixox-dataset/124/5eceac62-9715-4e60-86fd-753a751ca707.wav
+ - src: "se reúnen entre los céspedes"
+ - res: "se ve una entente los este es"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.355556, loss: 44.021782
+ - wav: file:///home/gabriel/datasets/librixox-dataset/119/39dee9a4-8a61-4f39-83fd-d1e9e1c96a06.wav
+ - src: "donde resonaba música deleitante de trompetas"
+ - res: "en me resonaba musica del intentaran tetas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.269231, loss: 44.424381
+ - wav: file:///home/gabriel/datasets/librixox-dataset/151/47cd04ed-9e7c-4c8e-a361-63e42f630a3f.wav
+ - src: "cómo ayudaros aquí noble reina le respondió dietrich"
+ - res: "como a su varosa que no la reina le respondió diere"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.411765, loss: 45.757645
+ - wav: file:///home/gabriel/datasets/librixox-dataset/001/aeafcf52-3e5f-4136-8ccd-9645316a9043.wav
+ - src: "pasó media hora el sol iba cayendo"
+ - res: "paso me diora es oliva calle"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.512821, loss: 47.404728
+ - wav: file:///home/gabriel/datasets/librixox-dataset/129/2988f481-3365-46f3-9cd1-1bf12ed432b0.wav
+ - src: "trajeron al fin doce milímetros de agua"
+ - res: "parieron a quien no se milimetrada"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.484848, loss: 48.264706
+ - wav: file:///home/gabriel/datasets/librixox-dataset/099/e7d642ee-cf1f-4d6a-8c47-4891478671dc.wav
+ - src: "tú has hecho mal de ojo a mi hijo"
+ - res: "tu echo manejo mijo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.307692, loss: 48.644947
+ - wav: file:///home/gabriel/datasets/librixox-dataset/167/063f726e-694a-4c79-85fc-6e75071458cb.wav
+ - src: "tiénele mayor y conviénele ocuparse mucho en lección"
+ - res: "tiene la mayor y con quien en la ocuparse mucho lesión"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.575758, loss: 50.343605
+ - wav: file:///home/gabriel/datasets/librixox-dataset/086/00de8af2-ee34-46e7-858f-e32e75a927d9.wav
+ - src: "cómo ponerle un anillo en su dedo"
+ - res: "como con aro de misión supera"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.375000, loss: 51.559299
+ - wav: file:///home/gabriel/datasets/librixox-dataset/184/3070e869-5dc9-4e82-becf-d41a82678edf.wav
+ - src: "le asaltaban deseos de una vida ascética"
+ - res: "la acaban de ser en la vida ética"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.423077, loss: 51.893784
+ - wav: file:///home/gabriel/datasets/librixox-dataset/168/5c4b93c2-9d4b-404c-9d37-70eda6430feb.wav
+ - src: "andrés pensó en adquirirlo"
+ - res: "andresen fora quiridio"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.545455, loss: 54.764156
+ - wav: file:///home/gabriel/datasets/librixox-dataset/190/fb8a8646-9448-491a-999a-da3d79b26d42.wav
+ - src: "pues este tenía a toda hora con quien hablar"
+ - res: "parte renaudara condenable"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 58.481880
+ - wav: file:///home/gabriel/datasets/librixox-dataset/216/bce3e9eb-a4e6-4c3a-b0ca-fc5bede64f2c.wav
+ - src: "no he de querer engañarme yo misma"
+ - res: "made que renegar mi comisa"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.243902, loss: 61.041962
+ - wav: file:///home/gabriel/datasets/librixox-dataset/125/9d23b17c-c719-4026-a91c-e7b36db6aa02.wav
+ - src: "es el patrón muerto preguntó ansiosamente"
+ - res: "y se patón muerto que un to ansiosamente"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.548387, loss: 61.508965
+ - wav: file:///home/gabriel/datasets/librixox-dataset/214/a2c2bc30-1f15-41fd-8dcb-f95f2a174d6c.wav
+ - src: "que solía ser de piedra tallada"
+ - res: "qué sería en tiene para"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.470588, loss: 67.860626
+ - wav: file:///home/gabriel/datasets/librixox-dataset/042/1a43fb08-354f-4d46-97d6-abc1a909696b.wav
+ - src: "tú de dónde has brotado aquí amigo"
+ - res: "y le monde ocotero aquí a mi"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.484848, loss: 68.867828
+ - wav: file:///home/gabriel/datasets/librixox-dataset/102/e108ad5f-87c0-46ac-bbec-3d2b0c5ae1df.wav
+ - src: "es un viaje penosome decía rodiño"
+ - res: "caso viaje penoso minicarro de lo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.514706, loss: 82.849892
+ - wav: file:///home/gabriel/datasets/librixox-dataset/103/4e50401d-aecd-4809-aa10-2c889c545842.wav
+ - src: "ya usando su muleta ya arrastrándola tras sí por medio del acollador"
+ - res: "y aun sasolita y arrasando las traficando de la cosa dor"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.600000, loss: 91.828552
+ - wav: file:///home/gabriel/datasets/librixox-dataset/115/f17cf3c2-3180-44e8-9853-5ce6aca13ce1.wav
+ - src: "wellington se ha movido repitió el mercenario"
+ - res: "cual ipoclorito capital docenario"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.711111, loss: 107.422600
+ - wav: file:///home/gabriel/datasets/librixox-dataset/216/a543a524-f2d2-4e5b-9e6c-00d1ad3098b0.wav
+ - src: "pues te mataré porque es verdad rugió navarro"
+ - res: "toda la crepuq organ mocionada"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 110.483444
+ - wav: file:///home/gabriel/datasets/librixox-dataset/170/b8a970a6-266d-4ee4-a645-df0f3c231bba.wav
+ - src: "me han permitido satisfacer en parte la curiosidad"
+ - res: "menta dique satifacer patrocinidad"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.432432, loss: 113.541351
+ - wav: file:///home/gabriel/datasets/librixox-dataset/110/7343e32e-a4b6-4074-a595-7667d15f224a.wav
+ - src: "defiéndeme gritó genara dando diente con diente ese hombre me quiere matar"
+ - res: "allende es de de cojear a ando diente con diente es rebeque ma ca"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.614035, loss: 125.874031
+ - wav: file:///home/gabriel/datasets/librixox-dataset/188/34b183f8-4a4b-4848-bd4e-d0e94dff8329.wav
+ - src: "reunió el rey un poderoso ejército y se dirigió a granada"
+ - res: "donde reimponer o asesino isidore nada"
+--------------------------------------------------------------------------------
+WER: 0.933333, CER: 0.343750, loss: 56.576183
+ - wav: file:///home/gabriel/datasets/librixox-dataset/006/ac0e7d43-fb4d-462b-8f1c-26829b4ed6aa.wav
+ - src: "do re mi fa sol la si he aquí mi mundo durante todo aquel tiempo"
+ - res: "donja sola sí requimundo urante todo a deltiempo"
+--------------------------------------------------------------------------------
+WER: 0.933333, CER: 0.507246, loss: 101.408371
+ - wav: file:///home/gabriel/datasets/librixox-dataset/120/ca162495-49c4-406f-b1d0-e78b8de0eef0.wav
+ - src: "salió el príncipe de sevilla y se fue a buscar a su compañero el búho"
+ - res: "salpica ese día y de pagos para sucompañero en "
+--------------------------------------------------------------------------------
+WER: 0.928571, CER: 0.551136, loss: 340.477173
+ - wav: file:///home/gabriel/datasets/librixox-dataset/096/ed547f7e-0a0a-4f0b-a3f9-47723e71ede4.wav
+ - src: "puedes delatarme denunciarme llevarme arrastrado por los cabellos a donde tus salvajes jefes están haciendo cuentas por ver si algún jurado se escapó de la carnicería de anoche"
+ - res: "podes de la casa en ciallevado a cabo rustavelisa de tus atascase de tamarindo cuentos todasagra dos de copoteca islería en dos"
+--------------------------------------------------------------------------------
+WER: 0.923077, CER: 0.307692, loss: 97.267693
+ - wav: file:///home/gabriel/datasets/librixox-dataset/170/eb3bcf18-e86c-44c9-a232-25f67ad722db.wav
+ - src: "hasta que suspendíamos nuestra monótona charla para oír embebecidas las quejas del ruiseñor"
+ - res: "hasta que suspendía monos a monótonica la para oír en de decían las que se deduce or"
+--------------------------------------------------------------------------------
+WER: 0.923077, CER: 0.451220, loss: 137.248596
+ - wav: file:///home/gabriel/datasets/librixox-dataset/208/2054eac8-1fac-42a6-a5f9-d8ea2fcc770d.wav
+ - src: "millares y millares de hombres han dedicado sus esfuerzos a encontrarle un defecto"
+ - res: "milla es ingieran e mesamericano sus abusos a incontable cundas de to"
+--------------------------------------------------------------------------------
+WER: 0.916667, CER: 0.610169, loss: 123.835258
+ - wav: file:///home/gabriel/datasets/librixox-dataset/168/a136197e-103c-4c79-b18f-43d8f91cdb42.wav
+ - src: "exclamó con un rugido en el cual parecía que echaba el alma"
+ - res: "ya no como posible al cortarse que chapelanos"
+--------------------------------------------------------------------------------
+WER: 0.916667, CER: 0.524590, loss: 125.242714
+ - wav: file:///home/gabriel/datasets/librixox-dataset/141/ca644d2f-bda6-4e47-be90-fe0da12f3560.wav
+ - src: "a quien hará quemar el señor marquet en la terraza del casino"
+ - res: "allí no dimanen sigamos que trina terras de casino"
+--------------------------------------------------------------------------------
+WER: 0.909091, CER: 0.403226, loss: 62.195259
+ - wav: file:///home/gabriel/datasets/librixox-dataset/000/e6ab4214-816e-4bf2-bee9-1153c2bd15a2.wav
+ - src: "esposa dijo el hombre eres super emperadora ahora sí dijo ella"
+ - res: "estos dijo en una e superempinada aura si yo era"
+--------------------------------------------------------------------------------
+WER: 0.909091, CER: 0.586207, loss: 111.699684
+ - wav: file:///home/gabriel/datasets/librixox-dataset/189/589802c0-057f-4fdd-aa82-112a9dfa64d1.wav
+ - src: "que estoy dispuesto a derramar la última gota de mi sangre"
+ - res: "esto después de remolantm coponente de"
+--------------------------------------------------------------------------------
+WER: 0.900000, CER: 0.228070, loss: 51.099350
+ - wav: file:///home/gabriel/datasets/librixox-dataset/135/b70ad4ce-2d5d-4f5e-a1c9-b0bdc20de037.wav
+ - src: "yo quedé tan espantada y aún lo estoy ahora escribiéndolo"
+ - res: "lo que de tan espantada y a una estoria ora escribiendo lo"
+--------------------------------------------------------------------------------
+WER: 0.900000, CER: 0.381818, loss: 60.738144
+ - wav: file:///home/gabriel/datasets/librixox-dataset/219/1474753e-e709-473e-8d3c-95f56b33f6d7.wav
+ - src: "míralo y decídelo tú mismo contesto el del abrigo verde"
+ - res: "mina loy desiero turismo con que esto el erario verde"
+--------------------------------------------------------------------------------
+WER: 0.900000, CER: 0.472727, loss: 144.208481
+ - wav: file:///home/gabriel/datasets/librixox-dataset/147/356fa1d5-ad1a-4ce7-b2d4-52003e3692ac.wav
+ - src: "pero en dónde podría yo hallar el original de esta copia divina quién sabe cuántos reinos y montes nos separan"
+ - res: "pero en donde guerenabarrena meta cobreiro quien adecuando reincidentes no se para"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.348837, loss: 41.545891
+ - wav: file:///home/gabriel/datasets/librixox-dataset/066/84355027-6ae2-414d-b797-07aed8ba2d36.wav
+ - src: "es tan grande la gloria y descanso del alma"
+ - res: "esta grande laborales caso de la lma"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.384615, loss: 46.107647
+ - wav: file:///home/gabriel/datasets/librixox-dataset/060/079eb175-57df-41cc-a786-1ea9bd89bf28.wav
+ - src: "apenas hube llegado a mi bajel y al mar"
+ - res: "atenas sudelegado mi argelia a más"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.206897, loss: 48.921246
+ - wav: file:///home/gabriel/datasets/librixox-dataset/069/b6198b01-fc41-4817-b780-dc8dfc4e3512.wav
+ - src: "queréis a españa queréis este suelo queréis nuestras casas"
+ - res: "que esa españa que es este suelo que reis no estas casas"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.272727, loss: 50.245087
+ - wav: file:///home/gabriel/datasets/librixox-dataset/221/f1ed0214-e0d9-4268-ba17-bace9372cc7a.wav
+ - src: "caray esposa por qué quieres ser emperadora preguntó él"
+ - res: "caraístas poque que es el emperador preguntó el"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.200000, loss: 50.954479
+ - wav: file:///home/gabriel/datasets/librixox-dataset/022/15032c90-23c3-4489-9e8f-2f0c38552139.wav
+ - src: "mi palabra iba tomando un acento desusado de excitación"
+ - res: "y palabra y va tomando un cento de sus hados de exitación"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.291667, loss: 53.150234
+ - wav: file:///home/gabriel/datasets/librixox-dataset/110/95e2d3f6-bacd-40f4-92ca-fb0a1d85a0a1.wav
+ - src: "tú tendrás otras mariposas azules en cuanto a mí"
+ - res: "tu te brazo ta mariposas atunes en cuanta mi"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.263158, loss: 65.644226
+ - wav: file:///home/gabriel/datasets/librixox-dataset/157/5c85a1aa-f2ea-4f79-8a6b-7ae175cf64e7.wav
+ - src: "buen premio me dió ese cocodrilo llorón murmuró aviraneta"
+ - res: "buen pronova dio ese coco de o llorón o muro aviraneta"
+--------------------------------------------------------------------------------
+WER: 0.888889, CER: 0.355556, loss: 103.520302
+ - wav: file:///home/gabriel/datasets/librixox-dataset/168/174aeab0-5911-4b50-96f6-5da185a15fea.wav
+ - src: "sí tía le contente abrazándola ya es hora de irnos ya dieron las seis y me están esperando"
+ - res: "si tía de contestar a sando la y a sora del nos abieron asisyen esperando"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.382353, loss: 36.369862
+ - wav: file:///home/gabriel/datasets/librixox-dataset/220/e6dd9a74-4df7-4de7-9cad-4f6f2242432b.wav
+ - src: "ni cerrojos lo que yo desee es mío"
+ - res: "y se rojos coceyo ese es mi"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.333333, loss: 36.837830
+ - wav: file:///home/gabriel/datasets/librixox-dataset/115/17a3678a-38ae-455b-8cea-0e62d7451073.wav
+ - src: "déjate de rodeos y ve derecho al asunto"
+ - res: "deja tener dos y de derecho a la junta"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.244444, loss: 56.619911
+ - wav: file:///home/gabriel/datasets/librixox-dataset/178/41708c12-8179-40e6-a28e-3248f09e3f67.wav
+ - src: "y nos quedáramos en ayunas hasta el anochecer"
+ - res: "nos quedaremos en algunas a tael anoche ser"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.444444, loss: 57.907936
+ - wav: file:///home/gabriel/datasets/librixox-dataset/055/d1e55c07-8dd1-4e7b-8f12-bdd8fe2b5eb4.wav
+ - src: "cuyas ventanas daban a una especie de galería"
+ - res: "cementadas daban unas desearía"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.340909, loss: 59.505531
+ - wav: file:///home/gabriel/datasets/librixox-dataset/016/6a56fe18-25a2-4570-9f49-38354d61ee91.wav
+ - src: "iráse pues contigo para dormir en tu palacio"
+ - res: "ya se pues continuo mandamiento palacio"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.266667, loss: 61.887016
+ - wav: file:///home/gabriel/datasets/librixox-dataset/169/033f1b0a-4edd-4eb9-8ad0-5381352e1235.wav
+ - src: "amén dice john éndicott amén coreó su séquito"
+ - res: "amén dice yo en ti co amen coreo su sequito"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.513514, loss: 69.893372
+ - wav: file:///home/gabriel/datasets/librixox-dataset/187/3313cd24-60f4-4f17-ba76-de68a62a4dc5.wav
+ - src: "y hasta ahora no se lo han encontrado"
+ - res: "y estara nosengo tra o"
+--------------------------------------------------------------------------------
+WER: 0.875000, CER: 0.355932, loss: 72.363609
+ - wav: file:///home/gabriel/datasets/librixox-dataset/101/7ebea46c-4fe3-49b9-ab56-f5723949630b.wav
+ - src: "mañana solamente deberás hacerme un trabajito muy pequeñito"
+ - res: "mineralogam ente de veras a fermenta bajillo muy pequeñito"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.300000, loss: 15.761587
+ - wav: file:///home/gabriel/datasets/librixox-dataset/213/ea7a586c-511f-4b6e-9aba-8c69614d5eb8.wav
+ - src: "sino andar al hilo de la gente"
+ - res: "si no dar al iruela gente"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.230769, loss: 23.546421
+ - wav: file:///home/gabriel/datasets/librixox-dataset/182/b421f594-3dd8-41f6-abcd-75dfea8feb9e.wav
+ - src: "pero apenas quedó consumido en el suelo"
+ - res: "pero que nos quedo con su mira en el suelo"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.225000, loss: 24.066076
+ - wav: file:///home/gabriel/datasets/librixox-dataset/073/6258857e-3bda-41dd-8eff-683d84f5fa8c.wav
+ - src: "no habite en mi demasiado anchurosa casa"
+ - res: "no habiten mi demasiado en que los a casa"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.257143, loss: 27.451738
+ - wav: file:///home/gabriel/datasets/librixox-dataset/139/16500cd1-94d4-4dce-9530-2bb0f3935b54.wav
+ - src: "con hojas anchas y gruesas las unas"
+ - res: "como es ancha y gruesa la una"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.256410, loss: 28.400930
+ - wav: file:///home/gabriel/datasets/librixox-dataset/002/c08cbce3-17d7-43b2-9b67-267f3e29cf2f.wav
+ - src: "leguía se levantó zurbano hizo lo mismo"
+ - res: "de día se levantó su mano y solo mismo"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.375000, loss: 29.141081
+ - wav: file:///home/gabriel/datasets/librixox-dataset/189/a6fdb10d-82a8-4fa4-8b4a-9bce655e205b.wav
+ - src: "a mi espalda brillaba aún el sol"
+ - res: "a mis palla de llama a un sol"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.354839, loss: 32.217693
+ - wav: file:///home/gabriel/datasets/librixox-dataset/181/d5a34ed8-09f8-44ca-ace0-908a1ed2ed19.wav
+ - src: "si el baile es de toda etiqueta"
+ - res: "servales de toda de queta"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.333333, loss: 34.346363
+ - wav: file:///home/gabriel/datasets/librixox-dataset/146/285c6543-43e6-4cdb-8a4c-05810988d084.wav
+ - src: "ningún rey que empuñe cetro sea benigno"
+ - res: "ningún rey quem ponese tro se ha venido"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.416667, loss: 39.584190
+ - wav: file:///home/gabriel/datasets/librixox-dataset/208/fd697729-3929-4c46-a682-8e323625f51e.wav
+ - src: "eso no lo va a ver nadie"
+ - res: "es un no lobadas nadie"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.451613, loss: 40.685402
+ - wav: file:///home/gabriel/datasets/librixox-dataset/026/1986b880-4a79-4c1c-a296-4ee6c5e70193.wav
+ - src: "le volvió el color y el aliento"
+ - res: "ya volvieron oria aliento"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.400000, loss: 41.304497
+ - wav: file:///home/gabriel/datasets/librixox-dataset/080/54090891-4782-4277-b9f8-b49f3e13d196.wav
+ - src: "él se aficionó en extremo a mí"
+ - res: "el salesiano en estremo mi"
+--------------------------------------------------------------------------------
+WER: 0.857143, CER: 0.292683, loss: 41.351429
+ - wav: file:///home/gabriel/datasets/librixox-dataset/091/23e42324-48da-4330-acbd-c386402ee63f.wav
+ - src: "el capitán y gray estaban ya examinándolo"
+ - res: "y capitán ingresaban la examiando lo"
+--------------------------------------------------------------------------------
+I Exporting the model…
+
+
+
+
+
+
+Testing model on datasets/tatotest.csv
+Test epoch | Steps: 436 | Elapsed Time: 0:42:29                                   
+Test on datasets/tatotest.csv - WER: 0.252327, CER: 0.099417, loss: 15.686543
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.200000, loss: 8.583449
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/026/7583578.wav
+ - src: "hazlo enseguida"
+ - res: "a lo en seguida"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.352941, loss: 11.582380
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/024/6836007.wav
+ - src: "hablaré despacito"
+ - res: "a la red espacito"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.357143, loss: 13.666448
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/065/4615234.wav
+ - src: "ellas danzarán"
+ - res: "ella es tan tarán"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.428571, loss: 27.130268
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/129/1622116.wav
+ - src: "teníamos razón"
+ - res: "e día os ogazón"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.312500, loss: 11.995654
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/047/6588102.wav
+ - src: "te pasarás luego"
+ - res: "de pasar a su ego"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.409091, loss: 23.298563
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/051/4903015.wav
+ - src: "quién necesita aquello"
+ - res: "quienes se cita que lo"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.526316, loss: 32.389957
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/014/7359687.wav
+ - src: "de madrugada helará"
+ - res: "demas dada en la a"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.133333, loss: 4.279006
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/114/6639095.wav
+ - src: "enseguida salgo"
+ - res: "en seguida algo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.142857, loss: 5.464889
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/016/6639088.wav
+ - src: "estoy saliendo"
+ - res: "esto y sabiendo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.230769, loss: 5.771127
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/130/5967505.wav
+ - src: "debes dárselo"
+ - res: "debe darse lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.214286, loss: 6.018544
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/064/6694293.wav
+ - src: "vale atendedme"
+ - res: "vale a tender me"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.166667, loss: 6.073138
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/007/4843196.wav
+ - src: "deberías detenerte"
+ - res: "deberías de tener de"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 6.565870
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/140/1192422.wav
+ - src: "comamos sushi"
+ - res: "como no sus"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.363636, loss: 6.609609
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/110/5047042.wav
+ - src: "tienen atún"
+ - res: "tiene a tu"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.230769, loss: 6.631370
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/085/338823.wav
+ - src: "muéstrame eso"
+ - res: "muestra me so"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.176471, loss: 7.731399
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/081/5967507.wav
+ - src: "debes recogérselo"
+ - res: "debes recoger se lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.266667, loss: 8.281431
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/015/6819326.wav
+ - src: "tienes fresones"
+ - res: "tiene su sones"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.384615, loss: 8.551516
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/050/6694292.wav
+ - src: "bueno atended"
+ - res: "bueno a que de"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.187500, loss: 8.779857
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/131/5967504.wav
+ - src: "debes cerrárselo"
+ - res: "debe cerrarse lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.555556, loss: 10.051656
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/081/6834161.wav
+ - src: "no cederá"
+ - res: "no se de la"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.400000, loss: 10.365265
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/127/4557222.wav
+ - src: "quién ganó"
+ - res: "quien la no"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.454545, loss: 10.435741
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/093/4599292.wav
+ - src: "quédese ahí"
+ - res: "que desea y"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.357143, loss: 11.868930
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/159/3658091.wav
+ - src: "vamos admítelo"
+ - res: "mas admite lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.375000, loss: 12.216807
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/097/2819.wav
+ - src: "pareces estúpido"
+ - res: "para ese estudio"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.200000, loss: 12.886986
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/096/5693595.wav
+ - src: "sujétalo fuerte"
+ - res: "su jeta lo fuerte"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.666667, loss: 13.502616
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/137/7273230.wav
+ - src: "nadaste ayer"
+ - res: "la das telón"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.538462, loss: 14.582611
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/043/1822050.wav
+ - src: "enseñas árabe"
+ - res: "enseña a david"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 15.218930
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/104/6863595.wav
+ - src: "queda cerveza"
+ - res: "quero se mesa"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.400000, loss: 15.239567
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/170/5107792.wav
+ - src: "llámame después"
+ - res: "ya no me después"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 15.521177
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/043/460401.wav
+ - src: "habéis vuelto"
+ - res: "abismo el to"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.380952, loss: 15.744952
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/170/8419030.wav
+ - src: "utilizáis desodorante"
+ - res: "utiliza este sobrante"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.235294, loss: 19.299532
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/135/7742328.wav
+ - src: "estáis enamoradas"
+ - res: "esta es enamorada "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.636364, loss: 19.662033
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/079/1395597.wav
+ - src: "bebéis café"
+ - res: "si veis case"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.285714, loss: 20.774576
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/143/5645692.wav
+ - src: "fui requeteafortunada"
+ - res: "fui receta forti nada"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.400000, loss: 21.790569
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/114/5093005.wav
+ - src: "piénsatelo bien"
+ - res: "pienso que lo bien"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 23.902903
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/131/6063729.wav
+ - src: "qué irritante"
+ - res: "que lo distante"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.333333, loss: 25.422258
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/099/969658.wav
+ - src: "llámame ishmael"
+ - res: "llevan e ismael"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.500000, loss: 27.215172
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/136/1060900.wav
+ - src: "qué aburrimiento"
+ - res: "queda por reviento"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.480000, loss: 29.785452
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/127/2002706.wav
+ - src: "en singapur hablan inglés"
+ - res: "es en a por a la niles"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.357143, loss: 10.211904
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/133/574490.wav
+ - src: "salid del aula"
+ - res: "salí de la ula"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.263158, loss: 10.579486
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/076/7299841.wav
+ - src: "están listos chicos"
+ - res: "está listo si cos"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.550000, loss: 12.973394
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/174/2314620.wav
+ - src: "habla usted italiano"
+ - res: "a este diario no"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.300000, loss: 14.347010
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/156/1713628.wav
+ - src: "no tengo alternativa"
+ - res: "lo de gualter nativa"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.142857, loss: 14.899200
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/068/952056.wav
+ - src: "él intentó suicidarse"
+ - res: "el intento suicida se"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.260870, loss: 15.262501
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/020/1852438.wav
+ - src: "él prometió contárnoslo"
+ - res: "el prometio contarnos su"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.400000, loss: 17.920115
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/158/4780451.wav
+ - src: "comenzaré esta tarde"
+ - res: "como en seres a tarde"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.250000, loss: 18.960361
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/086/7258211.wav
+ - src: "trataré de decírtelo"
+ - res: "tratar de decir se lo"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.368421, loss: 19.378674
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/083/4557804.wav
+ - src: "no digas palabrotas"
+ - res: "dos días para brocas"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.208333, loss: 20.505867
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/002/5038131.wav
+ - src: "tenemos que arriesgarnos"
+ - res: "tenemos que a dios a nos"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.611111, loss: 20.915852
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/114/1654912.wav
+ - src: "enséñame la lengua"
+ - res: "en señora de la"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.200000, loss: 22.687996
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/167/3407210.wav
+ - src: "boston está sobrevalorado"
+ - res: "boston están sobre la logrado"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.181818, loss: 23.578697
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/101/1713392.wav
+ - src: "eso nunca desaparecerá"
+ - res: "es un un ca desaparecerá"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.476190, loss: 24.023872
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/094/1793257.wav
+ - src: "me quiero emborrachar"
+ - res: "me quieren por la cara"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.500000, loss: 24.404091
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/124/3564954.wav
+ - src: "puedes oír eso"
+ - res: "fue de su id eso"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.380952, loss: 25.018000
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/138/743581.wav
+ - src: "queréis haceros ricas"
+ - res: "que el acero son ricas"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.476190, loss: 25.253168
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/064/5705214.wav
+ - src: "sabe usted javascript"
+ - res: "sabes te haba escrito"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.444444, loss: 29.675205
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/030/2689909.wav
+ - src: "usted bebe cerveza"
+ - res: "usted de ese mes a"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.411765, loss: 30.453974
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/066/969593.wav
+ - src: "qué significa usb"
+ - res: "que significa un es de"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.208333, loss: 30.782162
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/168/7843311.wav
+ - src: "fui acusado injustamente"
+ - res: "fui a cusa de justamente"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.476190, loss: 32.066936
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/030/3280841.wav
+ - src: "sabemos hablar alemán"
+ - res: "salgo sola al man"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.272727, loss: 37.162209
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/021/854754.wav
+ - src: "recuerdo haberla visto"
+ - res: "recuerda de la vista"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.380952, loss: 13.723460
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/057/6819281.wav
+ - src: "aquel pan está mohoso"
+ - res: "a que el pan estamos"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.363636, loss: 18.943649
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/042/6771547.wav
+ - src: "no bebas tanto alcohol"
+ - res: "lo de bastante al col"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.458333, loss: 25.102137
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/005/2216289.wav
+ - src: "podéis ir adonde queráis"
+ - res: "por si a donde crees"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.384615, loss: 25.285303
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/044/5459255.wav
+ - src: "dónde encontraste tu llave"
+ - res: "donde en contra tuya de"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.500000, loss: 29.002861
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/106/775666.wav
+ - src: "habla alguien aquí japonés"
+ - res: "hablan aquí a por el"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.216216, loss: 20.793613
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/119/1129975.wav
+ - src: "podría usted envolverlos por separado"
+ - res: "podía usted en volver los puso parado"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.400000, loss: 31.136946
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/158/340273.wav
+ - src: "él nos llevó al zoológico"
+ - res: "el lo llevó a su los ico"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.483871, loss: 33.903702
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/114/4548455.wav
+ - src: "ojalá tuviéramos un médico aquí"
+ - res: "o abatiera a su medico que"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.342105, loss: 36.207767
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/098/2903108.wav
+ - src: "estudio francés también estudio alemán"
+ - res: "esto es antes también estudios de man"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.416667, loss: 46.308941
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/023/3302115.wav
+ - src: "llegas tarde qué has estado haciendo"
+ - res: "de esta de que así cada ciendo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.222222, loss: 0.999504
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/164/4764906.wav
+ - src: "no canten"
+ - res: "no cante en"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.181818, loss: 1.116394
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/164/5087454.wav
+ - src: "tienen casa"
+ - res: "tiene en casa"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.250000, loss: 1.924174
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/150/6672138.wav
+ - src: "antes nevaba"
+ - res: "antes de baba"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.058824, loss: 2.003179
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/173/6706987.wav
+ - src: "regresa enseguida"
+ - res: "regresa en seguida"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.133333, loss: 2.080769
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/058/6857985.wav
+ - src: "espero detalles"
+ - res: "espero de tales"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.142857, loss: 2.179510
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/153/6683658.wav
+ - src: "les encantaste"
+ - res: "les encanta este"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.071429, loss: 2.367285
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/032/2474748.wav
+ - src: "soy salvavidas"
+ - res: "soy salva vidas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.076923, loss: 2.528236
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/133/4587206.wav
+ - src: "puedo tomarlo"
+ - res: "puedo tomar lo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.071429, loss: 2.540787
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/044/6639137.wav
+ - src: "enseguida como"
+ - res: "en seguida como"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.083333, loss: 2.541899
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/113/795896.wav
+ - src: "espero verla"
+ - res: "espero ver la"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.062500, loss: 2.981968
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/031/2152702.wav
+ - src: "encontraste algo"
+ - res: "en contraste algo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.055556, loss: 3.072944
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/143/6706984.wav
+ - src: "volvemos enseguida"
+ - res: "volvemos en seguida"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.400000, loss: 3.141827
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/008/6683632.wav
+ - src: "te veíamos"
+ - res: "deberíamos"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.375000, loss: 3.153942
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/064/6592059.wav
+ - src: "lo pegas"
+ - res: "lopera"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.250000, loss: 3.190996
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/040/6688823.wav
+ - src: "entra ya"
+ - res: "entre la"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.333333, loss: 3.216984
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/010/6588080.wav
+ - src: "coge esto"
+ - res: "con gesto"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.166667, loss: 3.243295
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/034/4489663.wav
+ - src: "qué estudias"
+ - res: "que estudia"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.100000, loss: 3.303355
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/145/4505776.wav
+ - src: "anoten eso"
+ - res: "anoten es o"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.052632, loss: 3.437256
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/054/5017799.wav
+ - src: "encontraste trabajo"
+ - res: "en contraste trabajo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.058824, loss: 3.707939
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/032/6706989.wav
+ - src: "vuelven enseguida"
+ - res: "vuelven en seguida"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.300000, loss: 4.039412
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/146/1278923.wav
+ - src: "entra aquí"
+ - res: "entre que"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 4.103872
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/106/6614128.wav
+ - src: "haré eso"
+ - res: "ares"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.066667, loss: 4.137994
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/035/5048490.wav
+ - src: "tiene sobrepeso"
+ - res: "tiene sobre peso"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.076923, loss: 4.257912
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/037/1990672.wav
+ - src: "ven enseguida"
+ - res: "ven en seguida"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.400000, loss: 4.362713
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/119/865783.wav
+ - src: "no chilles"
+ - res: "noches"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.062500, loss: 4.813309
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/159/8368710.wav
+ - src: "queremos pararla"
+ - res: "queremos para la"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.363636, loss: 4.821666
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/037/1400479.wav
+ - src: "ve al grano"
+ - res: "belgrano"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.272727, loss: 4.976918
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/138/1314354.wav
+ - src: "eres idiota"
+ - res: "en el idiota"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.142857, loss: 4.989861
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/140/6597256.wav
+ - src: "os queda leche"
+ - res: "los que da leche"
+--------------------------------------------------------------------------------
+I Exporting the model…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Testing model on datasets/voxtest.csv
+Test epoch | Steps: 151 | Elapsed Time: 0:38:27                                   
+Test on datasets/voxtest.csv - WER: 0.432209, CER: 0.222986, loss: 76.587639
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.428571, loss: 27.867649
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_miguel-20140706-yqs/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "estaba a su paso señor"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.371429, loss: 106.797974
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_25-20140611-hhn/wav/es-0015.wav
+ - src: "de unas parras artificiales cuyas hojas parecían retazos de terciopelo"
+ - res: "yo no para la petición es que a sopas parecían de tacos en terciopelo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.625000, loss: 28.302217
+ - wav: file:///home/gabriel/datasets/vox16/ubanov_es_01/wav/73.wav
+ - src: "el niño era bastante feo"
+ - res: "oratane creo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.703704, loss: 28.854315
+ - wav: file:///home/gabriel/datasets/vox16/ciego-10122009/wav/59.wav
+ - src: "miguel ven aquí ahora mismo"
+ - res: "es el de nacionales"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.800000, loss: 33.561298
+ - wav: file:///home/gabriel/datasets/vox16/MMarin_ES_01/wav/44.wav
+ - src: "qué puedo decir"
+ - res: "y fusil"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 36.363079
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_4-20140604-srl/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "que estaban posporteños"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.809524, loss: 36.364330
+ - wav: file:///home/gabriel/datasets/vox16/FVera_ES_01/wav/82.wav
+ - src: "he ido a recoger miel"
+ - res: "dorgon"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.250000, loss: 38.185959
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_1-20140513-uxx/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "esta ocupado con señores"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.655172, loss: 38.561493
+ - wav: file:///home/gabriel/datasets/vox16/ubanov_es_01/wav/05.wav
+ - src: "clavó el gusano en el anzuelo"
+ - res: "la bolsa a merano"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.631579, loss: 38.583714
+ - wav: file:///home/gabriel/datasets/vox16/JAlvarado_ES_01/wav/78.wav
+ - src: "señala con el dedo lo que más te guste"
+ - res: "señor poeta de quinteros"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.727273, loss: 38.856026
+ - wav: file:///home/gabriel/datasets/vox16/ciego-10122009/wav/120.wav
+ - src: "érase una vez un niño muy pequeño"
+ - res: "era fecundades hominoideo "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.567568, loss: 41.999500
+ - wav: file:///home/gabriel/datasets/vox16/ciego-10122009/wav/118.wav
+ - src: "diez once doce trece catorce y quince"
+ - res: "is an se tostase cato se intente"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.357143, loss: 42.931625
+ - wav: file:///home/gabriel/datasets/vox16/Zeronius-20140606-lva/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "estaba ocupado muy por"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.750000, loss: 43.762733
+ - wav: file:///home/gabriel/datasets/vox16/facuq-20090731-qke/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "lo porocurador"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.300000, loss: 45.926487
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_1-20140428-zpc/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una línea negra oblicua en ajuste acuerdos"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.534884, loss: 45.929260
+ - wav: file:///home/gabriel/datasets/vox16/ciego-10122009/wav/119.wav
+ - src: "veinte veintiuno treinta cuarenta cincuenta"
+ - res: "la incidencia retaguaria cuenta"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.625000, loss: 46.505165
+ - wav: file:///home/gabriel/datasets/vox16/JAlvarado_ES_01/wav/131.wav
+ - src: "el anuncio quería concienciar a la gente"
+ - res: "era el incidieron sintiera de en"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.280000, loss: 49.546223
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20121107-jxq/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una línea negra cónica semejante acuerdo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.340000, loss: 52.009872
+ - wav: file:///home/gabriel/datasets/vox16/maibac1-20121015-gaq/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una linea oblicua semejante acuerdo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.420000, loss: 52.790989
+ - wav: file:///home/gabriel/datasets/vox16/sg_ce_ricardo-20140514-kui/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una siniesros de ricos elegantes acuerdas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.655172, loss: 55.364857
+ - wav: file:///home/gabriel/datasets/vox16/FVera_ES_01/wav/05.wav
+ - src: "clavó el gusano en el anzuelo"
+ - res: "la lusaneas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.675676, loss: 55.659290
+ - wav: file:///home/gabriel/datasets/vox16/FVera_ES_01/wav/118.wav
+ - src: "diez once doce trece catorce y quince"
+ - res: "es con setos de tres cetosis"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.400000, loss: 56.969654
+ - wav: file:///home/gabriel/datasets/vox16/nacho-20100219-ukz/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una niña negra ubicuamente la cuerda"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.571429, loss: 59.302719
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-okl/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "estaba pasos"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.607143, loss: 59.304100
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20110220-pju/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "estaba a sus"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.562500, loss: 60.931904
+ - wav: file:///home/gabriel/datasets/vox16/DPinto_ES_01-b/wav/48.wav
+ - src: "sujeta el papel con la chincheta"
+ - res: "su etapa de corticata"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.863636, loss: 62.968220
+ - wav: file:///home/gabriel/datasets/vox16/FVera_ES_01/wav/18.wav
+ - src: "mi carro me lo robaron"
+ - res: "cada"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.440000, loss: 67.747887
+ - wav: file:///home/gabriel/datasets/vox16/moto-20100418-efx/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una línea de silicuas en mi antepuertas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.360000, loss: 68.555893
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_25-20140611-nhh/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una manera oblicuas en o antes acuerdos"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.440000, loss: 71.362122
+ - wav: file:///home/gabriel/datasets/vox16/AlanNaiman-20121014-tke/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una línea negra cobijas de antisoborno"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.377358, loss: 72.629463
+ - wav: file:///home/gabriel/datasets/vox16/DPinto_ES_01-b/wav/99.wav
+ - src: "además de grabar las frases debes subirlas a internet"
+ - res: "además te da alas pases de de su isla sentarme"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.714286, loss: 73.682991
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20090829-fbt/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "actaea acabaran"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.420000, loss: 75.954201
+ - wav: file:///home/gabriel/datasets/vox16/SergioDaroca-20090909-dbk/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una niña negración dicusiones antes acuerdas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.452381, loss: 78.668320
+ - wav: file:///home/gabriel/datasets/vox16/FVera_ES_01/wav/39.wav
+ - src: "más vale pájaro en mano que ciento volando"
+ - res: "pasó al pasar un vano que se tuvo la "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.480000, loss: 80.047211
+ - wav: file:///home/gabriel/datasets/vox16/grave-20111110-mam/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una idea de la odisea te acuerdas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.560000, loss: 80.253258
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20090406-hxd/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una niña negra unicatenaria cuando"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.560000, loss: 82.184418
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_36-20140611-hbl/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "las señas meras ubico en la antesecores"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 82.487915
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_miguel-20140706-bhm/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una leodegarius santos acuerdos "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 82.744461
+ - wav: file:///home/gabriel/datasets/vox16/sg_ac_Adrian-20141114-tbp/wav/es-0015.wav
+ - src: "de unas parras artificiales cuyas hojas parecían retazos de terciopelo"
+ - res: "una es para ti siciales colacajas pareciera tatatarabuelo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.577465, loss: 83.279610
+ - wav: file:///home/gabriel/datasets/vox16/sg_ce_cecilia-20140513-dzt/wav/es-0014.wav
+ - src: "madera tendidos de pilastra a pilastra y el verde amarillento y velludo"
+ - res: "madero con miras de cilastatina spaanderman gente en"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.714286, loss: 85.707771
+ - wav: file:///home/gabriel/datasets/vox16/mariano-20120527-ajp/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "parapetado en el "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.558824, loss: 86.928947
+ - wav: file:///home/gabriel/datasets/vox16/Virginia-20120118-xfu/wav/es-0022.wav
+ - src: "dejaba ver el salón inmediato blanco también pero con adornos de oro"
+ - res: "dejó de les alonimida to la casamiento a denotar"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.600000, loss: 91.339912
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-kgd/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una pena negra suecos macaco"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.413333, loss: 92.486351
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20150408-nvd/wav/es-0040.wav
+ - src: "los mismos ocultándose para volver a aparecer con regularidad casi mecánica"
+ - res: "los mismos o un paro en para poner al parecer con recorrerla y la califican"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.661765, loss: 94.891937
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_1-20140428-thi/wav/es-0022.wav
+ - src: "dejaba ver el salón inmediato blanco también pero con adornos de oro"
+ - res: "la belonera o agotamiento jugadores"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.574074, loss: 95.770531
+ - wav: file:///home/gabriel/datasets/vox16/FVera_ES_01/wav/98.wav
+ - src: "instaló aislamiento acústico para no oír a los vecinos"
+ - res: "todo es la meta cusco para poderosos"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.428571, loss: 97.349548
+ - wav: file:///home/gabriel/datasets/vox16/sg_ac_Adrian-20141114-rnl/wav/es-0015.wav
+ - src: "de unas parras artificiales cuyas hojas parecían retazos de terciopelo"
+ - res: "si una de las taras atificiales colacajas parecía etazeta otero"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.560000, loss: 99.246841
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20100518-vob/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una era ionicos presenta cuarta"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.549296, loss: 103.811859
+ - wav: file:///home/gabriel/datasets/vox16/sg_ce_afelpeto-20140515-kxr/wav/es-0014.wav
+ - src: "madera tendidos de pilastra a pilastra y el verde amarillento y velludo"
+ - res: "madero que litiofilita pilastre de parientedel"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.540000, loss: 105.970840
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-rox/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una línea negra suecos macaco"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.821429, loss: 106.382553
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-bdp/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "a poco"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.540000, loss: 108.339119
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_3-20140606-qzn/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "una línea de raciones con sensatez acorazado"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.573529, loss: 109.851578
+ - wav: file:///home/gabriel/datasets/vox16/sg_ce_pablo-20140502-lsh/wav/es-0022.wav
+ - src: "dejaba ver el salón inmediato blanco también pero con adornos de oro"
+ - res: "es araeoscelidia to lagotamiento como dorador"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.594203, loss: 111.643311
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20100417-tmr/wav/es-0021.wav
+ - src: "una vidriera de pared a pared formada de pequeños cristales biselados"
+ - res: "para para o matapeces estados mimados"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.857143, loss: 114.157463
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-pki/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "esta"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.860000, loss: 117.026230
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-rcr/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "operaciones"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.720000, loss: 118.035339
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-lyo/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "monasterios manacor"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.729730, loss: 118.406555
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20090714-gnl/wav/es-0016.wav
+ - src: "sillones de floreada cretona en torno de las mesas de bambú formaban islas"
+ - res: "eso no mularatara por la lamentable"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.468085, loss: 125.250244
+ - wav: file:///home/gabriel/datasets/vox16/sg_ce_cecilia-20140425-vaq/wav/es-0007.wav
+ - src: "mientras la vida ordinaria callaba y se encogía en las personas como poseída de súbita timidez"
+ - res: "mi palabra de la de alava es encogerlos parsons como poseído de su vida en un"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.774648, loss: 125.623207
+ - wav: file:///home/gabriel/datasets/vox16/sgaycorvaamonde-20140430-ujg/wav/es-0004.wav
+ - src: "muy lejos acompañado en esta fuga ideal por el leve crujido de la pluma"
+ - res: "acalorada a deleitarlas le"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.689189, loss: 126.042183
+ - wav: file:///home/gabriel/datasets/vox16/lobogris777-20100524-vuj/wav/es-0016.wav
+ - src: "sillones de floreada cretona en torno de las mesas de bambú formaban islas"
+ - res: "no tapaderito da por novelas platodenominado en"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.642857, loss: 126.389336
+ - wav: file:///home/gabriel/datasets/vox16/VNieto-20090830-ysg/wav/es-0015.wav
+ - src: "de unas parras artificiales cuyas hojas parecían retazos de terciopelo"
+ - res: "para pacificar una comaparada papeete"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.698795, loss: 130.415329
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20140925-nsd/wav/es-0000.wav
+ - src: "al sentir un roce en el cuello fernando de ojeda soltó la pluma y levantó la cabeza"
+ - res: "anteosauria para mandamiento a una caratula para"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.558824, loss: 133.109390
+ - wav: file:///home/gabriel/datasets/vox16/sg_ac_Adrian-20141114-wdb/wav/es-0022.wav
+ - src: "dejaba ver el salón inmediato blanco también pero con adornos de oro"
+ - res: "deja de ser inmediata no cosancionados sea"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.551724, loss: 135.336594
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20100524-rql/wav/es-0030.wav
+ - src: "movíase pasando de una a otra ventana con lento balanceo una especie de columna esbelta"
+ - res: "había epo sonadora ventana por la entrada la fe o estesícoro no es mera"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.707692, loss: 137.237427
+ - wav: file:///home/gabriel/datasets/vox16/FVera_ES_01/wav/57.wav
+ - src: "en caso de avería el capitán será el último en abandonar el barco"
+ - res: "a su desactivación ultimonodo"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.623377, loss: 137.391891
+ - wav: file:///home/gabriel/datasets/vox16/felipecock-20151003-acp/wav/es-0037.wav
+ - src: "y el frío resplandor de las ampollas eléctricas descendían gorjeos de pájaros"
+ - res: "si en restandolsele ricas entiendese pano"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.800000, loss: 138.235184
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_miguel-20140706-tle/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "dichas pereciesse"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.724638, loss: 146.141434
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-wrx/wav/es-0021.wav
+ - src: "una vidriera de pared a pared formada de pequeños cristales biselados"
+ - res: "el parapara destacadas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.724138, loss: 147.893570
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-rox/wav/es-0030.wav
+ - src: "movíase pasando de una a otra ventana con lento balanceo una especie de columna esbelta"
+ - res: "movies amudena oportuna pasionaria"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.688312, loss: 149.311646
+ - wav: file:///home/gabriel/datasets/vox16/sg_ce_Paula-20140502-rhe/wav/es-0037.wav
+ - src: "y el frío resplandor de las ampollas eléctricas descendían gorjeos de pájaros"
+ - res: "estandardizando selecticas eminencias"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.691176, loss: 149.349304
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-bsn/wav/es-0022.wav
+ - src: "dejaba ver el salón inmediato blanco también pero con adornos de oro"
+ - res: "no se numera la copamiento como"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.584416, loss: 150.337860
+ - wav: file:///home/gabriel/datasets/vox16/sgaycoalvarez-20140430-loi/wav/es-0005.wav
+ - src: "vio con el mismo aspecto exterior cosas y personas al salir de su abstracción"
+ - res: "a medio fetasianos pesonas asaenes estación"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.720430, loss: 154.864685
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-bsn/wav/es-0020.wav
+ - src: "sorteando los promontorios de los respaldos los golfos y penínsulas formados por las rodillas"
+ - res: "su trama con un poderoso la corposfera concede"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.611111, loss: 163.638260
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20111116-nag/wav/es-0035.wav
+ - src: "del fondo del segundo salón llegaban confundidos con risas de mujeres y choque de bandejas"
+ - res: "el fumosorosea sacudidas por esa democedes choperas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.612903, loss: 163.849380
+ - wav: file:///home/gabriel/datasets/vox16/sg_ce_pablo-20140502-lsh/wav/es-0020.wav
+ - src: "sorteando los promontorios de los respaldos los golfos y penínsulas formados por las rodillas"
+ - res: "su tema como toreros palomos cojos egresando cronicas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.729730, loss: 164.672913
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20130816-jgc/wav/es-0016.wav
+ - src: "sillones de floreada cretona en torno de las mesas de bambú formaban islas"
+ - res: "su producto a una oriseduco manos"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.746988, loss: 165.558212
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20140209-wef/wav/es-0000.wav
+ - src: "al sentir un roce en el cuello fernando de ojeda soltó la pluma y levantó la cabeza"
+ - res: "asistimos a operadoraspor a toda o"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.840000, loss: 168.552689
+ - wav: file:///home/gabriel/datasets/vox16/SantiagoRojo-20090311-bhz/wav/es-0032.wav
+ - src: "unas líneas negras y oblicuas semejantes a cuerdas"
+ - res: "no atacan"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.640000, loss: 172.494736
+ - wav: file:///home/gabriel/datasets/vox16/felipecock-20151003-acp/wav/es-0040.wav
+ - src: "los mismos ocultándose para volver a aparecer con regularidad casi mecánica"
+ - res: "numerosas carreteras parecen corornaría semicarinata"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.584158, loss: 175.173157
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_isanlop1-20141013-lzg/wav/es-0029.wav
+ - src: "que cerraban la perspectiva al otro lado de los cristales ligeramente turbios por la humedad exterior"
+ - res: "es a abaratarse ido a retratista les enteramente turriformes pero"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.746988, loss: 180.219162
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20090308-cea/wav/es-0000.wav
+ - src: "al sentir un roce en el cuello fernando de ojeda soltó la pluma y levantó la cabeza"
+ - res: "a acidificar amaneciera canacinatra cabe"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.670103, loss: 195.421585
+ - wav: file:///home/gabriel/datasets/vox16/sgaycorvaamonde-20140430-ujg/wav/es-0006.wav
+ - src: "pero una vida interna ruidosa y móvil parecía haber nacido en las cosas hasta entonces inanimadas"
+ - res: "el malentendido amor para paralafiestade decenas"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.766234, loss: 196.943420
+ - wav: file:///home/gabriel/datasets/vox16/xandrox-20120728-wzn/wav/es-0037.wav
+ - src: "y el frío resplandor de las ampollas eléctricas descendían gorjeos de pájaros"
+ - res: "en la aralidiaceae a del"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.536082, loss: 198.742218
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_36-20140611-aqf/wav/es-0006.wav
+ - src: "pero una vida interna ruidosa y móvil parecía haber nacido en las cosas hasta entonces inanimadas"
+ - res: "la berenjena o simone para celebración de la cosa tan todas inanimados"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.801980, loss: 203.568954
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20100906-alq/wav/es-0029.wav
+ - src: "que cerraban la perspectiva al otro lado de los cristales ligeramente turbios por la humedad exterior"
+ - res: "estacionadas en tesorero"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.702970, loss: 207.053528
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20111116-nag/wav/es-0029.wav
+ - src: "que cerraban la perspectiva al otro lado de los cristales ligeramente turbios por la humedad exterior"
+ - res: "ese apetitivo anquiloasadas deseretores polonaise"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.636364, loss: 207.781235
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_miguel-20140706-tle/wav/es-0026.wav
+ - src: "flotaba sobre las plantas más allá de estos corros femeninos en torno de las mesas de té"
+ - res: "se tablaestacas marremoto emeninos chocalas pesetita"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.711111, loss: 209.610107
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20130815-hkd/wav/es-0035.wav
+ - src: "del fondo del segundo salón llegaban confundidos con risas de mujeres y choque de bandejas"
+ - res: "un delegado a la majestuosa ecodemocracia"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.788235, loss: 212.167389
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-pki/wav/es-0023.wav
+ - src: "los asientos tapizados de seda rosa igual a la que adornaba los planos de las paredes"
+ - res: "sosa y una valiosopara es"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.626866, loss: 216.872864
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-wrx/wav/es-0018.wav
+ - src: "manteca y mermeladas el pan tostado husmear el perfume del té o seguir el burbujeo de las aguas minerales teñidas de jarabes y licores"
+ - res: "matadepera base apostado osadamente seguidores obstinadas periodos agresiones"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.891892, loss: 221.474686
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-qfl/wav/es-0016.wav
+ - src: "sillones de floreada cretona en torno de las mesas de bambú formaban islas"
+ - res: "se asocia"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.708955, loss: 226.565720
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-bsn/wav/es-0018.wav
+ - src: "manteca y mermeladas el pan tostado husmear el perfume del té o seguir el burbujeo de las aguas minerales teñidas de jarabes y licores"
+ - res: "ante fimascota un mercodetecnia abanderadas en tarasco"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.700000, loss: 229.046387
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-rox/wav/es-0035.wav
+ - src: "del fondo del segundo salón llegaban confundidos con risas de mujeres y choque de bandejas"
+ - res: "como su sede la comunico ecumenico en"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.824324, loss: 230.931488
+ - wav: file:///home/gabriel/datasets/vox16/anonymous-20100715-ejg/wav/es-0016.wav
+ - src: "sillones de floreada cretona en torno de las mesas de bambú formaban islas"
+ - res: "la reponedores "
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.671642, loss: 233.825424
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_1-20140513-uxx/wav/es-0018.wav
+ - src: "manteca y mermeladas el pan tostado husmear el perfume del té o seguir el burbujeo de las aguas minerales teñidas de jarabes y licores"
+ - res: "ante en amasando stadounidense consiguieron abadiales niedereichi"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.723881, loss: 239.679459
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-qra/wav/es-0018.wav
+ - src: "manteca y mermeladas el pan tostado husmear el perfume del té o seguir el burbujeo de las aguas minerales teñidas de jarabes y licores"
+ - res: "mantenemos un compostador como enterramiento para cinco"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.896104, loss: 247.850235
+ - wav: file:///home/gabriel/datasets/vox16/sg_ci_1-20140416-joa/wav/es-0005.wav
+ - src: "vio con el mismo aspecto exterior cosas y personas al salir de su abstracción"
+ - res: "cesiones"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.870130, loss: 248.466248
+ - wav: file:///home/gabriel/datasets/vox16/ikki506-20130930-hud/wav/es-0005.wav
+ - src: "vio con el mismo aspecto exterior cosas y personas al salir de su abstracción"
+ - res: "esto apoyado"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.770492, loss: 263.150452
+ - wav: file:///home/gabriel/datasets/vox16/sg_atis_adrian-20141126-sns/wav/es-0028.wav
+ - src: "sus cabezas rubias de germanos y los arcos de sus violines destacábanse sobre los rectángulos luminosos de cuatro ventanas"
+ - res: "con pubescencia posesiones en opalenica"
+--------------------------------------------------------------------------------
+I Exporting the model…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Testing model on datasets/cltv-alltest.csv
+Test epoch | Steps: 1578 | Elapsed Time: 4:11:36                                  
+Test on datasets/cltv-alltest.csv - WER: 0.309883, CER: 0.155768, loss: 37.927967
+--------------------------------------------------------------------------------
+WER: 2.666667, CER: 0.843750, loss: 128.331192
+ - wav: file:///home/gabriel/datasets/commonvoice/171/common_voice_es_19958370.wav
+ - src: "sitio oficial peixonautauolcombr"
+ - res: "si oficial peixonauta punto no punto a punto de "
+--------------------------------------------------------------------------------
+WER: 2.500000, CER: 1.000000, loss: 47.713318
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_20008496.wav
+ - src: "keisuke shimizu"
+ - res: "eso que si mis mando"
+--------------------------------------------------------------------------------
+WER: 2.500000, CER: 0.875000, loss: 60.267853
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_19744650.wav
+ - src: "recientemente mr"
+ - res: "la resina del ente este"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.200000, loss: 8.583449
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/026/7583578.wav
+ - src: "hazlo enseguida"
+ - res: "a lo en seguida"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.352941, loss: 11.582380
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/024/6836007.wav
+ - src: "hablaré despacito"
+ - res: "a la red espacito"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.357143, loss: 13.666448
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/065/4615234.wav
+ - src: "ellas danzarán"
+ - res: "ella es tan tarán"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.375000, loss: 21.033264
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_19611305.wav
+ - src: "distribuye namco"
+ - res: "distribuyen a un co"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.750000, loss: 26.215891
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19606922.wav
+ - src: "códice centelles"
+ - res: "con este se entere"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.428571, loss: 27.130268
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/129/1622116.wav
+ - src: "teníamos razón"
+ - res: "e día os ogazón"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 1.100000, loss: 29.390997
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19758781.wav
+ - src: "obregón cd"
+ - res: "por ello se ve"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.391304, loss: 36.055904
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_19657102.wav
+ - src: "títulos internacionales"
+ - res: "de las internacionales y a"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.764706, loss: 37.194714
+ - wav: file:///home/gabriel/datasets/commonvoice/173/common_voice_es_19713528.wav
+ - src: "hiroyuki sugimoto"
+ - res: "yo lo que sumó"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.833333, loss: 37.792679
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_19956662.wav
+ - src: "akiko kimura"
+ - res: "aquí co que mora"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.933333, loss: 40.568916
+ - wav: file:///home/gabriel/datasets/commonvoice/173/common_voice_es_18703528.wav
+ - src: "oficial oficial"
+ - res: "ficha para con sus"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.666667, loss: 76.561707
+ - wav: file:///home/gabriel/datasets/commonvoice/171/common_voice_es_19769319.wav
+ - src: "plástico flexible envase primario"
+ - res: "a las de confección en la primaria a "
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.645161, loss: 50.744850
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19650289.wav
+ - src: "palomas tiene escuelas públicas"
+ - res: "a lo más in de despena una"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.620690, loss: 58.854599
+ - wav: file:///home/gabriel/datasets/commonvoice/166/common_voice_es_19943688.wav
+ - src: "verdadera musa inspiró poesía"
+ - res: "era de amos a intro poesía a colo"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.629630, loss: 74.793922
+ - wav: file:///home/gabriel/datasets/commonvoice/165/common_voice_es_19945106.wav
+ - src: "actualmente vive en atlanta"
+ - res: "en la cara atcualmente viven a tan"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.645161, loss: 75.839478
+ - wav: file:///home/gabriel/datasets/commonvoice/169/common_voice_es_19667010.wav
+ - src: "hildebrand un oficial británico"
+ - res: "es de gran o no dice amitato"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.312500, loss: 11.995654
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/047/6588102.wav
+ - src: "te pasarás luego"
+ - res: "de pasar a su ego"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.409091, loss: 23.298563
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/051/4903015.wav
+ - src: "quién necesita aquello"
+ - res: "quienes se cita que lo"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.526316, loss: 32.389957
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/014/7359687.wav
+ - src: "de madrugada helará"
+ - res: "demas dada en la a"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.571429, loss: 39.813660
+ - wav: file:///home/gabriel/datasets/commonvoice/173/common_voice_es_18307013.wav
+ - src: "os parecéis muchísimo"
+ - res: "os parece es un chico al"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 1.687500, loss: 182.947327
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_18309522.wav
+ - src: "basta  por favor"
+ - res: "no basta por favor ya en adenomatoides en"
+--------------------------------------------------------------------------------
+WER: 1.600000, CER: 0.526316, loss: 103.044411
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19758517.wav
+ - src: "olimpija ljubljana se proclamó campeón"
+ - res: "por el cice u y ana se recabó campea"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.133333, loss: 4.279006
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/114/6639095.wav
+ - src: "enseguida salgo"
+ - res: "en seguida algo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.142857, loss: 5.464889
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/016/6639088.wav
+ - src: "estoy saliendo"
+ - res: "esto y sabiendo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.230769, loss: 5.771127
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/130/5967505.wav
+ - src: "debes dárselo"
+ - res: "debe darse lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.214286, loss: 6.018544
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/064/6694293.wav
+ - src: "vale atendedme"
+ - res: "vale a tender me"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.166667, loss: 6.073138
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/007/4843196.wav
+ - src: "deberías detenerte"
+ - res: "deberías de tener de"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 6.565870
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/140/1192422.wav
+ - src: "comamos sushi"
+ - res: "como no sus"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.363636, loss: 6.609609
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/110/5047042.wav
+ - src: "tienen atún"
+ - res: "tiene a tu"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.230769, loss: 6.631368
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/085/338823.wav
+ - src: "muéstrame eso"
+ - res: "muestra me so"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.176471, loss: 7.731399
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/081/5967507.wav
+ - src: "debes recogérselo"
+ - res: "debes recoger se lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.266667, loss: 8.281433
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/015/6819326.wav
+ - src: "tienes fresones"
+ - res: "tiene su sones"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.384615, loss: 8.551516
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/050/6694292.wav
+ - src: "bueno atended"
+ - res: "bueno a que de"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.187500, loss: 8.779857
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/131/5967504.wav
+ - src: "debes cerrárselo"
+ - res: "debe cerrarse lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.555556, loss: 10.051656
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/081/6834161.wav
+ - src: "no cederá"
+ - res: "no se de la"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.400000, loss: 10.365265
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/127/4557222.wav
+ - src: "quién ganó"
+ - res: "quien la no"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.454545, loss: 10.435741
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/093/4599292.wav
+ - src: "quédese ahí"
+ - res: "que desea y"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.555556, loss: 11.514104
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_19989892.wav
+ - src: "real acad"
+ - res: "peral a casa"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.357143, loss: 11.868930
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/159/3658091.wav
+ - src: "vamos admítelo"
+ - res: "mas admite lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.375000, loss: 12.216807
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/097/2819.wav
+ - src: "pareces estúpido"
+ - res: "para ese estudio"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.200000, loss: 12.886986
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/096/5693595.wav
+ - src: "sujétalo fuerte"
+ - res: "su jeta lo fuerte"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.666667, loss: 13.502616
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/137/7273230.wav
+ - src: "nadaste ayer"
+ - res: "la das telón"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.538462, loss: 14.582611
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/043/1822050.wav
+ - src: "enseñas árabe"
+ - res: "enseña a david"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.187500, loss: 14.632342
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19751269.wav
+ - src: "enlaces internos"
+ - res: "en la cas internos"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.384615, loss: 14.679291
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19749919.wav
+ - src: "ediciones sur"
+ - res: "edición de su"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 15.218930
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/104/6863595.wav
+ - src: "queda cerveza"
+ - res: "quero se mesa"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.400000, loss: 15.239567
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/170/5107792.wav
+ - src: "llámame después"
+ - res: "ya no me después"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.357143, loss: 15.465425
+ - wav: file:///home/gabriel/datasets/commonvoice/175/common_voice_es_19694538.wav
+ - src: "eulalio garcía"
+ - res: "en un labio garcía"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 15.521177
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/043/460401.wav
+ - src: "habéis vuelto"
+ - res: "abismo el to"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.380952, loss: 15.744952
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/170/8419030.wav
+ - src: "utilizáis desodorante"
+ - res: "utiliza este sobrante"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.235294, loss: 19.299532
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/135/7742328.wav
+ - src: "estáis enamoradas"
+ - res: "esta es enamorada "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.636364, loss: 19.662033
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/079/1395597.wav
+ - src: "bebéis café"
+ - res: "si veis case"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.277778, loss: 20.157356
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19623417.wav
+ - src: "fiesta sacramental"
+ - res: "si esta segramental "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.285714, loss: 20.774576
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/143/5645692.wav
+ - src: "fui requeteafortunada"
+ - res: "fui receta forti nada"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.500000, loss: 20.921284
+ - wav: file:///home/gabriel/datasets/commonvoice/169/common_voice_es_19697644.wav
+ - src: "merino urrutia"
+ - res: "medido en lucia"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.400000, loss: 21.790569
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/114/5093005.wav
+ - src: "piénsatelo bien"
+ - res: "pienso que lo bien"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 23.902903
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/131/6063729.wav
+ - src: "qué irritante"
+ - res: "que lo distante"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.538462, loss: 24.324808
+ - wav: file:///home/gabriel/datasets/commonvoice/157/common_voice_es_19654333.wav
+ - src: "westport conn"
+ - res: "esto por un"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.333333, loss: 25.422258
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/099/969658.wav
+ - src: "llámame ishmael"
+ - res: "llevan e ismael"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 25.937782
+ - wav: file:///home/gabriel/datasets/commonvoice/169/common_voice_es_19980387.wav
+ - src: "ryo kobayashi"
+ - res: "rio com ayache"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.600000, loss: 26.439714
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_19737297.wav
+ - src: "álbum cancelado"
+ - res: "algo casi la"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.500000, loss: 27.215172
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/136/1060900.wav
+ - src: "qué aburrimiento"
+ - res: "queda por reviento"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.600000, loss: 27.897863
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_19979020.wav
+ - src: "kazuya kawabata"
+ - res: "es la caponata"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.480000, loss: 29.785450
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/127/2002706.wav
+ - src: "en singapur hablan inglés"
+ - res: "es en a por a la niles"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.545455, loss: 31.780682
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19602106.wav
+ - src: "the stooges"
+ - res: "de esto los"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.588235, loss: 32.017174
+ - wav: file:///home/gabriel/datasets/commonvoice/170/common_voice_es_19696089.wav
+ - src: "yasushi matsumoto"
+ - res: "la uci máximos "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.600000, loss: 34.106037
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_19637292.wav
+ - src: "katsura hoshino"
+ - res: "o su ocio"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.615385, loss: 35.315552
+ - wav: file:///home/gabriel/datasets/commonvoice/174/common_voice_es_19711328.wav
+ - src: "hiroki bandai"
+ - res: "el que manda"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.769231, loss: 41.369541
+ - wav: file:///home/gabriel/datasets/commonvoice/158/common_voice_es_19596470.wav
+ - src: "shinji otsuka"
+ - res: "si con choca"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.818182, loss: 44.888229
+ - wav: file:///home/gabriel/datasets/commonvoice/155/common_voice_es_19621135.wav
+ - src: "gonzález jr"
+ - res: "con tales sino"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.457143, loss: 46.169075
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19688658.wav
+ - src: "es un arseniato hidratado de níquel"
+ - res: "es una cena to y tratado en mis que el"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.454545, loss: 49.953037
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19605175.wav
+ - src: "producción musical edwin arellano"
+ - res: "reducciones ical es el aria no"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.647059, loss: 86.795891
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_19657023.wav
+ - src: "baterista del grupo de rock triana"
+ - res: "la premisa de e u a lo real o "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 1.055556, loss: 102.859741
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_18589060.wav
+ - src: "capítulo veintidós"
+ - res: "capítulo veintidós capítulos del dios"
+--------------------------------------------------------------------------------
+WER: 1.428571, CER: 0.547619, loss: 104.586548
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_20020706.wav
+ - src: "jugó para clubes como el consadole sapporo"
+ - res: "y una para que no me con un saldo lenta por "
+--------------------------------------------------------------------------------
+WER: 1.400000, CER: 1.080000, loss: 146.972336
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_19715690.wav
+ - src: "existe otra copia ms sign"
+ - res: "existe otra copia en un seconocen seis en un punto"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.357143, loss: 10.211904
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/133/574490.wav
+ - src: "salid del aula"
+ - res: "salí de la ula"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.263158, loss: 10.579486
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/076/7299841.wav
+ - src: "están listos chicos"
+ - res: "está listo si cos"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.550000, loss: 12.973394
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/174/2314620.wav
+ - src: "habla usted italiano"
+ - res: "a este diario no"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.300000, loss: 14.347010
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/156/1713628.wav
+ - src: "no tengo alternativa"
+ - res: "lo de gualter nativa"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.142857, loss: 14.899200
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/068/952056.wav
+ - src: "él intentó suicidarse"
+ - res: "el intento suicida se"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.260870, loss: 15.262501
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/020/1852438.wav
+ - src: "él prometió contárnoslo"
+ - res: "el prometio contarnos su"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.400000, loss: 17.920115
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/158/4780451.wav
+ - src: "comenzaré esta tarde"
+ - res: "como en seres a tarde"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.250000, loss: 18.960361
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/086/7258211.wav
+ - src: "trataré de decírtelo"
+ - res: "tratar de decir se lo"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.368421, loss: 19.378674
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/083/4557804.wav
+ - src: "no digas palabrotas"
+ - res: "dos días para brocas"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.208333, loss: 20.505863
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/002/5038131.wav
+ - src: "tenemos que arriesgarnos"
+ - res: "tenemos que a dios a nos"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.173913, loss: 20.512255
+ - wav: file:///home/gabriel/datasets/commonvoice/155/common_voice_es_20045483.wav
+ - src: "da múltiples conciertos"
+ - res: "la múltiple con cientos"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.611111, loss: 20.915852
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/114/1654912.wav
+ - src: "enséñame la lengua"
+ - res: "en señora de la"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.200000, loss: 22.687996
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/167/3407210.wav
+ - src: "boston está sobrevalorado"
+ - res: "boston están sobre la logrado"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.444444, loss: 23.316261
+ - wav: file:///home/gabriel/datasets/commonvoice/171/common_voice_es_18784516.wav
+ - src: "paloma san basilio"
+ - res: "la loma a base"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.181818, loss: 23.578697
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/101/1713392.wav
+ - src: "eso nunca desaparecerá"
+ - res: "es un un ca desaparecerá"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.476190, loss: 24.023872
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/094/1793257.wav
+ - src: "me quiero emborrachar"
+ - res: "me quieren por la cara"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.500000, loss: 24.404091
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/124/3564954.wav
+ - src: "puedes oír eso"
+ - res: "fue de su id eso"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.380952, loss: 25.018000
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/138/743581.wav
+ - src: "queréis haceros ricas"
+ - res: "que el acero son ricas"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.476190, loss: 25.253168
+ - wav: file:///home/gabriel/datasets/tatoeba-dataset/064/5705214.wav
+ - src: "sabe usted javascript"
+ - res: "sabes te haba escrito"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.523810, loss: 25.380747
+ - wav: file:///home/gabriel/datasets/commonvoice/166/common_voice_es_19655922.wav
+ - src: "veamos su descripción"
+ - res: "es de a su decisión"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.625000, loss: 26.723989
+ - wav: file:///home/gabriel/datasets/commonvoice/160/common_voice_es_19723330.wav
+ - src: "terfenol d datos"
+ - res: "el señor di antes"
+--------------------------------------------------------------------------------
+I Exporting the model...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Testing model on datasets/commonvoicetest.csv
+Test epoch | Steps: 426 | Elapsed Time: 1:24:58                                   
+Test on datasets/commonvoicetest.csv - WER: 0.505144, CER: 0.284334, loss: 67.699127
+--------------------------------------------------------------------------------
+WER: 2.666667, CER: 0.843750, loss: 128.331192
+ - wav: file:///home/gabriel/datasets/commonvoice/171/common_voice_es_19958370.wav
+ - src: "sitio oficial peixonautauolcombr"
+ - res: "si oficial peixonauta punto no punto a punto de "
+--------------------------------------------------------------------------------
+WER: 2.500000, CER: 1.000000, loss: 47.713318
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_20008496.wav
+ - src: "keisuke shimizu"
+ - res: "eso que si mis mando"
+--------------------------------------------------------------------------------
+WER: 2.500000, CER: 0.875000, loss: 60.267853
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_19744650.wav
+ - src: "recientemente mr"
+ - res: "la resina del ente este"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.375000, loss: 21.033262
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_19611305.wav
+ - src: "distribuye namco"
+ - res: "distribuyen a un co"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.750000, loss: 26.215891
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19606922.wav
+ - src: "códice centelles"
+ - res: "con este se entere"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 1.100000, loss: 29.390997
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19758781.wav
+ - src: "obregón cd"
+ - res: "por ello se ve"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.391304, loss: 36.055904
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_19657102.wav
+ - src: "títulos internacionales"
+ - res: "de las internacionales y a"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.764706, loss: 37.194717
+ - wav: file:///home/gabriel/datasets/commonvoice/173/common_voice_es_19713528.wav
+ - src: "hiroyuki sugimoto"
+ - res: "yo lo que sumó"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.833333, loss: 37.792679
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_19956662.wav
+ - src: "akiko kimura"
+ - res: "aquí co que mora"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.933333, loss: 40.568924
+ - wav: file:///home/gabriel/datasets/commonvoice/173/common_voice_es_18703528.wav
+ - src: "oficial oficial"
+ - res: "ficha para con sus"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.666667, loss: 76.561707
+ - wav: file:///home/gabriel/datasets/commonvoice/171/common_voice_es_19769319.wav
+ - src: "plástico flexible envase primario"
+ - res: "a las de confección en la primaria a "
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.645161, loss: 50.744850
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19650289.wav
+ - src: "palomas tiene escuelas públicas"
+ - res: "a lo más in de despena una"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.620690, loss: 58.854599
+ - wav: file:///home/gabriel/datasets/commonvoice/166/common_voice_es_19943688.wav
+ - src: "verdadera musa inspiró poesía"
+ - res: "era de amos a intro poesía a colo"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.629630, loss: 74.793922
+ - wav: file:///home/gabriel/datasets/commonvoice/165/common_voice_es_19945106.wav
+ - src: "actualmente vive en atlanta"
+ - res: "en la cara atcualmente viven a tan"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.645161, loss: 75.839478
+ - wav: file:///home/gabriel/datasets/commonvoice/169/common_voice_es_19667010.wav
+ - src: "hildebrand un oficial británico"
+ - res: "es de gran o no dice amitato"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.571429, loss: 39.813656
+ - wav: file:///home/gabriel/datasets/commonvoice/173/common_voice_es_18307013.wav
+ - src: "os parecéis muchísimo"
+ - res: "os parece es un chico al"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 1.687500, loss: 182.947327
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_18309522.wav
+ - src: "basta  por favor"
+ - res: "no basta por favor ya en adenomatoides en"
+--------------------------------------------------------------------------------
+WER: 1.600000, CER: 0.526316, loss: 103.044411
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19758517.wav
+ - src: "olimpija ljubljana se proclamó campeón"
+ - res: "por el cice u y ana se recabó campea"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.555556, loss: 11.514104
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_19989892.wav
+ - src: "real acad"
+ - res: "peral a casa"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.187500, loss: 14.632342
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19751269.wav
+ - src: "enlaces internos"
+ - res: "en la cas internos"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.384615, loss: 14.679291
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19749919.wav
+ - src: "ediciones sur"
+ - res: "edición de su"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.357143, loss: 15.465425
+ - wav: file:///home/gabriel/datasets/commonvoice/175/common_voice_es_19694538.wav
+ - src: "eulalio garcía"
+ - res: "en un labio garcía"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.277778, loss: 20.157356
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19623417.wav
+ - src: "fiesta sacramental"
+ - res: "si esta segramental "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.500000, loss: 20.921284
+ - wav: file:///home/gabriel/datasets/commonvoice/169/common_voice_es_19697644.wav
+ - src: "merino urrutia"
+ - res: "medido en lucia"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.538462, loss: 24.324808
+ - wav: file:///home/gabriel/datasets/commonvoice/157/common_voice_es_19654333.wav
+ - src: "westport conn"
+ - res: "esto por un"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.461538, loss: 25.937778
+ - wav: file:///home/gabriel/datasets/commonvoice/169/common_voice_es_19980387.wav
+ - src: "ryo kobayashi"
+ - res: "rio com ayache"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.600000, loss: 26.439714
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_19737297.wav
+ - src: "álbum cancelado"
+ - res: "algo casi la"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.600000, loss: 27.897863
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_19979020.wav
+ - src: "kazuya kawabata"
+ - res: "es la caponata"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.545455, loss: 31.780682
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19602106.wav
+ - src: "the stooges"
+ - res: "de esto los"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.588235, loss: 32.017174
+ - wav: file:///home/gabriel/datasets/commonvoice/170/common_voice_es_19696089.wav
+ - src: "yasushi matsumoto"
+ - res: "la uci máximos "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.600000, loss: 34.106037
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_19637292.wav
+ - src: "katsura hoshino"
+ - res: "o su ocio"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.615385, loss: 35.315552
+ - wav: file:///home/gabriel/datasets/commonvoice/174/common_voice_es_19711328.wav
+ - src: "hiroki bandai"
+ - res: "el que manda"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.769231, loss: 41.369541
+ - wav: file:///home/gabriel/datasets/commonvoice/158/common_voice_es_19596470.wav
+ - src: "shinji otsuka"
+ - res: "si con choca"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.818182, loss: 44.888229
+ - wav: file:///home/gabriel/datasets/commonvoice/155/common_voice_es_19621135.wav
+ - src: "gonzález jr"
+ - res: "con tales sino"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.457143, loss: 46.169075
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19688658.wav
+ - src: "es un arseniato hidratado de níquel"
+ - res: "es una cena to y tratado en mis que el"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.454545, loss: 49.953037
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19605175.wav
+ - src: "producción musical edwin arellano"
+ - res: "reducciones ical es el aria no"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.647059, loss: 86.795891
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_19657023.wav
+ - src: "baterista del grupo de rock triana"
+ - res: "la premisa de e u a lo real o "
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 1.055556, loss: 102.859741
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_18589060.wav
+ - src: "capítulo veintidós"
+ - res: "capítulo veintidós capítulos del dios"
+--------------------------------------------------------------------------------
+WER: 1.428571, CER: 0.547619, loss: 104.586548
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_20020706.wav
+ - src: "jugó para clubes como el consadole sapporo"
+ - res: "y una para que no me con un saldo lenta por "
+--------------------------------------------------------------------------------
+WER: 1.400000, CER: 1.080000, loss: 146.972336
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_19715690.wav
+ - src: "existe otra copia ms sign"
+ - res: "existe otra copia en un seconocen seis en un punto"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.173913, loss: 20.512255
+ - wav: file:///home/gabriel/datasets/commonvoice/155/common_voice_es_20045483.wav
+ - src: "da múltiples conciertos"
+ - res: "la múltiple con cientos"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.444444, loss: 23.316261
+ - wav: file:///home/gabriel/datasets/commonvoice/171/common_voice_es_18784516.wav
+ - src: "paloma san basilio"
+ - res: "la loma a base"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.523810, loss: 25.380743
+ - wav: file:///home/gabriel/datasets/commonvoice/166/common_voice_es_19655922.wav
+ - src: "veamos su descripción"
+ - res: "es de a su decisión"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.625000, loss: 26.723989
+ - wav: file:///home/gabriel/datasets/commonvoice/160/common_voice_es_19723330.wav
+ - src: "terfenol d datos"
+ - res: "el señor di antes"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.384615, loss: 26.824722
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_19968480.wav
+ - src: "realizó algunas porcelanas"
+ - res: "eso a una porcelana"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.550000, loss: 31.145321
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_19599552.wav
+ - src: "tiene flores blancas"
+ - res: "en me lo relance"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.736842, loss: 34.460197
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_19624919.wav
+ - src: "reside en argentona"
+ - res: "si no cuentan con"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.687500, loss: 38.542583
+ - wav: file:///home/gabriel/datasets/commonvoice/172/common_voice_es_19609011.wav
+ - src: "ulmus laevis var"
+ - res: "unos y a elimas"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.480000, loss: 54.016884
+ - wav: file:///home/gabriel/datasets/commonvoice/166/common_voice_es_19746322.wav
+ - src: "executive baby empresaria"
+ - res: "el seguici de ii empresaria"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.730769, loss: 57.327515
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_20038623.wav
+ - src: "seleccionador jan stirling"
+ - res: "se desenganchan de un"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.750000, loss: 63.159958
+ - wav: file:///home/gabriel/datasets/commonvoice/164/common_voice_es_20046494.wav
+ - src: "alberto bello jr"
+ - res: "aspecto de oconio o"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.933333, loss: 67.434708
+ - wav: file:///home/gabriel/datasets/commonvoice/161/common_voice_es_19740204.wav
+ - src: "captain blue jr"
+ - res: "el arte no son"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.812500, loss: 69.661064
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_20007395.wav
+ - src: "george porter jr"
+ - res: "los ute uta era"
+--------------------------------------------------------------------------------
+WER: 1.333333, CER: 0.465517, loss: 137.750854
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_18309528.wav
+ - src: "los párpados permanecían entreabiertos  rígidos  azulencos"
+ - res: "de los parpados y marcial entreabiertos una rigidos azulencos la palidez"
+--------------------------------------------------------------------------------
+WER: 1.285714, CER: 0.446154, loss: 84.172707
+ - wav: file:///home/gabriel/datasets/commonvoice/166/common_voice_es_19679410.wav
+ - src: "sufrió posteriores transformaciones levantándose una nueva planta"
+ - res: "sus hijos de estas formaciones levantado se la matanza"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.545455, loss: 35.140049
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_18890742.wav
+ - src: "lo siento mucho chaval"
+ - res: "los cinco mossos se va"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.419355, loss: 39.354099
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_19740510.wav
+ - src: "número cromosómico no estudiado"
+ - res: "madero como son iconos odiado"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.586207, loss: 47.218422
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_18674386.wav
+ - src: "uh correcto permiso concedido"
+ - res: "a con esto en iconos"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.351351, loss: 51.460876
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_19660035.wav
+ - src: "artículo principal premios tvynovelas"
+ - res: "artículo encima premios teme y no era"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.500000, loss: 58.038445
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_19613363.wav
+ - src: "pero no tuvieron hijos"
+ - res: "era la pudieran ijo au"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.655172, loss: 60.087406
+ - wav: file:///home/gabriel/datasets/commonvoice/154/common_voice_es_19768253.wav
+ - src: "traducción de cristina rascón"
+ - res: "se reducen de quienes les o"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.638889, loss: 66.361206
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_19659874.wav
+ - src: "brácteas involucrales ovadas obtusas"
+ - res: "de a inculcar a otra"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.676471, loss: 69.731445
+ - wav: file:///home/gabriel/datasets/commonvoice/161/common_voice_es_19668826.wav
+ - src: "humberto alfonso guillermo aguilar"
+ - res: "en esta fase de quemadinas"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.375000, loss: 88.004326
+ - wav: file:///home/gabriel/datasets/commonvoice/160/common_voice_es_20040872.wav
+ - src: "sus padres fueron james delano y lucinda bateman"
+ - res: "a su padres fueron les den de la no elucida de man"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.473684, loss: 100.057838
+ - wav: file:///home/gabriel/datasets/commonvoice/157/common_voice_es_19764795.wav
+ - src: "con sus triunfos devolvieron tranquilidad a los españoles"
+ - res: "los palos secos de vieron tranquila al español en esta"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.888889, loss: 101.193207
+ - wav: file:///home/gabriel/datasets/commonvoice/166/common_voice_es_19604961.wav
+ - src: "de estos sobrevivieron once"
+ - res: "a origen o de estos tomeileen"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.483333, loss: 147.332138
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_19632636.wav
+ - src: "comandante capaz catilina tuvo una meritoria carrera militar"
+ - res: "comandante de la ratio contuvo a vitoria a vida en común"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.793651, loss: 162.582428
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_19734436.wav
+ - src: "filósofo predilecto de vladímir mayakovski poeta futurista ruso"
+ - res: "en casa si no sofocamiento de la lineacoelotes de seres"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.400000, loss: 27.727692
+ - wav: file:///home/gabriel/datasets/commonvoice/165/common_voice_es_19635196.wav
+ - src: "está presente en dos isoformas"
+ - res: "esta reciente dedos y sus formas"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.464286, loss: 31.727186
+ - wav: file:///home/gabriel/datasets/commonvoice/153/common_voice_es_19017080.wav
+ - src: "ella también es muy española"
+ - res: "en la tanda y mayos pañola"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.186047, loss: 34.126198
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_19165048.wav
+ - src: "fueron arrestados ciento once manifestantes"
+ - res: "fueron a lo estados siento un cemanifestantes"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.320000, loss: 41.221607
+ - wav: file:///home/gabriel/datasets/commonvoice/159/common_voice_es_19626950.wav
+ - src: "augusto se casó dos veces"
+ - res: "a gusto de casados de si"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.361111, loss: 42.369556
+ - wav: file:///home/gabriel/datasets/commonvoice/176/common_voice_es_19137177.wav
+ - src: "ha realizado además algunos milagros"
+ - res: "a la diada de más algunos miradores"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.307692, loss: 46.486393
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_19627304.wav
+ - src: "museo de monterrey exposición colectiva"
+ - res: "museo en un ere de exposición con stiva"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.400000, loss: 66.964790
+ - wav: file:///home/gabriel/datasets/commonvoice/155/common_voice_es_20045482.wav
+ - src: "carrión pidió instrucciones al gral"
+ - res: "carrión vio en su ciones en general"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 0.433962, loss: 79.064529
+ - wav: file:///home/gabriel/datasets/commonvoice/163/common_voice_es_20039998.wav
+ - src: "posteriormente los españoles conquistaron mazalquivir"
+ - res: "pero la de los catalanes conquistaron la calidad"
+--------------------------------------------------------------------------------
+WER: 1.200000, CER: 1.000000, loss: 109.003677
+ - wav: file:///home/gabriel/datasets/commonvoice/175/common_voice_es_18727559.wav
+ - src: "me dejó húmedo el rostro"
+ - res: "esto se dejó un persona del inadecuado"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.516129, loss: 36.246590
+ - wav: file:///home/gabriel/datasets/commonvoice/154/common_voice_es_19603202.wav
+ - src: "autun pasó a bernardo de gothia"
+ - res: "a su paso del lado del bote"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.305556, loss: 39.539173
+ - wav: file:///home/gabriel/datasets/commonvoice/171/common_voice_es_19633623.wav
+ - src: "era hijo de cristina salazar salazar"
+ - res: "era hijo de resina a la par a la a"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.441860, loss: 51.663948
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_19958124.wav
+ - src: "esta cuarta dimensión sería el hiperespacio"
+ - res: "el pacuare y mención de día el infestation"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.465116, loss: 62.318878
+ - wav: file:///home/gabriel/datasets/commonvoice/152/common_voice_es_19620525.wav
+ - src: "eligió completar su bachillerato en austria"
+ - res: "en lo completan su requiera to en la de"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.577778, loss: 75.778557
+ - wav: file:///home/gabriel/datasets/commonvoice/170/common_voice_es_19731127.wav
+ - src: "boorman nació en shepperton surrey inglaterra"
+ - res: "nueva nación la petanca en la cara"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.452381, loss: 89.115082
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19670234.wav
+ - src: "gabrielle decide relajarse llamando a john"
+ - res: "gabrielle se dio la nasa y amanda la"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 1.074074, loss: 142.236542
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19609369.wav
+ - src: "los poros son de color ocre"
+ - res: "la parada una maqueta a tipoconsulta a"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.707317, loss: 144.375015
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_18845721.wav
+ - src: "no tenía memoria ni gracia interpretativa"
+ - res: "su la tenerlo moraleda sin de taciano"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.589474, loss: 189.274200
+ - wav: file:///home/gabriel/datasets/commonvoice/165/common_voice_es_19601670.wav
+ - src: "sus tropas estaban mal entrenadas pobremente equipadas e inadecuadamente vestidas y abastecidas"
+ - res: "su redactaba la ley de lado soledade quitado se la decora veleidades es ir"
+--------------------------------------------------------------------------------
+WER: 1.142857, CER: 0.375000, loss: 67.939964
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19597764.wav
+ - src: "es hermano del filósofo mexicano jaime labastida"
+ - res: "es el mano del piloto comerica no camelaba y va"
+--------------------------------------------------------------------------------
+WER: 1.142857, CER: 0.456522, loss: 76.768639
+ - wav: file:///home/gabriel/datasets/commonvoice/151/common_voice_es_19624882.wav
+ - src: "son los mayores aviones fabricados por embraer"
+ - res: "con la mayor aviofobia por el gane a"
+--------------------------------------------------------------------------------
+WER: 1.142857, CER: 0.465116, loss: 84.639259
+ - wav: file:///home/gabriel/datasets/commonvoice/168/common_voice_es_19136926.wav
+ - src: "reding nació en esch sur alzette luxemburgo"
+ - res: "redención es mi sur al set lo sembró"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.338462, loss: 48.596451
+ - wav: file:///home/gabriel/datasets/commonvoice/165/common_voice_es_19688696.wav
+ - src: "asimismo establecían enlaces matrimoniales con griegos y armenios"
+ - res: "así mismo estables y ante el nacnacional es con griegos y menos"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.440000, loss: 61.150089
+ - wav: file:///home/gabriel/datasets/commonvoice/174/common_voice_es_19021473.wav
+ - src: "el perro había enmudecido las voces se desvanecían"
+ - res: "al paro a pia en muchachito as voces de caspana"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.300000, loss: 65.232552
+ - wav: file:///home/gabriel/datasets/commonvoice/175/common_voice_es_19672926.wav
+ - src: "estas actividades han sido denunciadas ante organismos internacionales"
+ - res: "esta actividad es alto en un cara a torearemos internacionales"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.300000, loss: 75.735023
+ - wav: file:///home/gabriel/datasets/commonvoice/158/common_voice_es_19683217.wav
+ - src: "muchos estados recogen esta posibilidad en sus ordenamientos"
+ - res: "estos estados recogen esa posilidad e i por de lamentos y"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.590909, loss: 75.744492
+ - wav: file:///home/gabriel/datasets/commonvoice/172/common_voice_es_18757489.wav
+ - src: "él siempre venía los jueves después de cenar"
+ - res: "el sur de denia los cuando esta esposa en el"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.540000, loss: 76.078941
+ - wav: file:///home/gabriel/datasets/commonvoice/162/common_voice_es_18891837.wav
+ - src: "ni primavera sin golondrina ni despensa sin harina"
+ - res: "entre la era un alambre en mil espesa sin salir"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.460000, loss: 76.772949
+ - wav: file:///home/gabriel/datasets/commonvoice/172/common_voice_es_19977860.wav
+ - src: "inventa unas supuestas palabras mágicas que la sra"
+ - res: "en venta de su puerta para la mágica era siguiera"
+--------------------------------------------------------------------------------
+WER: 1.125000, CER: 0.410959, loss: 90.142937
+ - wav: file:///home/gabriel/datasets/commonvoice/167/common_voice_es_19680562.wav
+ - src: "estas actuaciones fueron consideradas ilegales por algunas personalidades"
+ - res: "esta apaciones fuera molinaranea es para una resonancia es"
+--------------------------------------------------------------------------------
+WER: 1.111111, CER: 0.491525, loss: 114.143707
+ - wav: file:///home/gabriel/datasets/commonvoice/160/common_voice_es_19667121.wav
+ - src: "sin embargo se han encontrado cuerpos enteros sin incinerar"
+ - res: "a la imago se ve contra cuarto de nero sin e anderson"
+--------------------------------------------------------------------------------
+WER: 1.111111, CER: 0.576271, loss: 117.425415
+ - wav: file:///home/gabriel/datasets/commonvoice/156/common_voice_es_19606622.wav
+ - src: "fue un importante difusor del pensamiento alemán en español"
+ - res: "por el portante y se sabe de sanidad manes pañal "
+--------------------------------------------------------------------------------
+WER: 1.111111, CER: 0.467742, loss: 120.757660
+ - wav: file:///home/gabriel/datasets/commonvoice/165/common_voice_es_20000004.wav
+ - src: "tras su lanzamiento el material musical obtuvo buenas críticas"
+ - res: "tras una amento en matamos y cano tuvo con el ircica"
+--------------------------------------------------------------------------------
+I Exporting the model...
