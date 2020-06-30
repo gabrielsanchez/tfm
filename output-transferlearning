@@ -1,0 +1,458 @@
+Test epoch | Steps: 846 | Elapsed Time: 0:54:45                                   
+Test on datasets/sslibritest.csv - WER: 0.075896, CER: 0.022379, loss: 11.117779
+--------------------------------------------------------------------------------
+Best WER: 
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 49.427387
+ - wav: file://datasets/librixox-dataset/001/f85721e2-f227-4b1d-b8fa-a260d4e81e6d.wav
+ - src: "con lentitud y ayes de dolor fue doblando su corpachón el aragonés hasta hundir la paja con sus asentaderas"
+ - res: "con lentitud y ayes de dolor fue doblando su corpachón el aragonés hasta hundir la paja con sus asentaderas"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 47.776161
+ - wav: file://datasets/librixox-dataset/180/27314896-06cb-4397-8caf-1bbf6fc5c9a3.wav
+ - src: "cuál es tu porvenir le preguntaba nuestros padres se van haciendo viejos y su anhelo es dejarte colocada porque yo no soy un gran apoyo para ti"
+ - res: "cuál es tu porvenir le preguntaba nuestros padres se van haciendo viejos y su anhelo es dejarte colocada porque yo no soy un gran apoyo para ti"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 46.679886
+ - wav: file://datasets/librixox-dataset/122/f6a52946-a1c7-495f-8bc4-fdea5c2cf4cb.wav
+ - src: "y la desnudaron por último de su traje nupcial aquel traje que parecía hecho para que un amante rompiera sus broches con mano trémula de emoción y cariño"
+ - res: "y la desnudaron por último de su traje nupcial aquel traje que parecía hecho para que un amante rompiera sus broches con mano trémula de emoción y cariño"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 43.744022
+ - wav: file://datasets/librixox-dataset/121/a6e453f8-f59e-470b-a44b-cdc1178f6a3a.wav
+ - src: "la envolvió bien en musgo fresco para que no se saliera el agua"
+ - res: "la envolvió bien en musgo fresco para que no se saliera el agua"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 41.928593
+ - wav: file://datasets/librixox-dataset/065/0b72969b-adbf-49fd-af9f-ecb39a25eb7f.wav
+ - src: "se asomó a la porta de popa y arrojó por ella un objeto que me pareció ser una botella vacía"
+ - res: "se asomó a la porta de popa y arrojó por ella un objeto que me pareció ser una botella vacía"
+--------------------------------------------------------------------------------
+Median WER: 
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.733218
+ - wav: file://datasets/librixox-dataset/011/6d5b92c6-b9f6-4cb7-803e-973c15bac161.wav
+ - src: "y que es burla con los ojos del cuerpo"
+ - res: "y que es burla con los ojos del cuerpo"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.732283
+ - wav: file://datasets/librixox-dataset/212/b4c6fe99-ec21-4133-aaf2-00791aa94dd5.wav
+ - src: "y preparaba el decreto para disolver las cortes"
+ - res: "y preparaba el decreto para disolver las cortes"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.731756
+ - wav: file://datasets/librixox-dataset/203/1ac261c3-3aa0-42a7-883b-d377caefa417.wav
+ - src: "medio agonizando a corta distancia de allí"
+ - res: "medio agonizando a corta distancia de allí"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.731152
+ - wav: file://datasets/librixox-dataset/044/9df42940-698f-44e2-a04f-d19f1059ac1a.wav
+ - src: "y además no necesitaba de familia"
+ - res: "y además no necesitaba de familia"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.729703
+ - wav: file://datasets/librixox-dataset/006/7d88c870-4356-49a4-afc5-55b66153d4f8.wav
+ - src: "vecino de la villa de casares"
+ - res: "vecino de la villa de casares"
+--------------------------------------------------------------------------------
+Worst WER: 
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.285714, loss: 23.670963
+ - wav: file://datasets/librixox-dataset/013/8c7a9315-6f8d-4de3-9663-ae719f256cfc.wav
+ - src: "delfines y bustos de náyades"
+ - res: "del finés y bustos de nada de eso"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.370370, loss: 17.849659
+ - wav: file://datasets/librixox-dataset/073/9cf8ba6e-eb14-47a9-bd18-5789c80f2a73.wav
+ - src: "llamábanle el tío francisco"
+ - res: "llamaba le tiran cisco"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.233333, loss: 14.776698
+ - wav: file://datasets/librixox-dataset/140/4e0d5f4e-7958-4258-b857-87cd47e0f8b8.wav
+ - src: "et ego disperdam inimicos meos"
+ - res: "tego dispersa en micos mes"
+--------------------------------------------------------------------------------
+WER: 1.166667, CER: 0.319149, loss: 42.906693
+ - wav: file://datasets/librixox-dataset/133/ed225bbe-7378-4b1d-bbc7-6c0dd14d8de8.wav
+ - src: "eztute oriyec cambiatuco gure jaungoicaren itzá"
+ - res: "este origen cambia tuco gure angoy caen y"
+--------------------------------------------------------------------------------
+WER: 1.250000, CER: 0.114286, loss: 12.450723
+ - wav: file://datasets/librixox-dataset/157/e07f2877-7a46-41be-8983-4aac2b72ba30.wav
+ - src: "estotros ímpetus son diferentísimos"
+ - res: "esto tros ímpetu son diferentes imos"
+--------------------------------------------------------------------------------
+I Exporting the model...
+I Loading best validating checkpoint from fcltvx-ckpt/best_dev-743719
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/bias
+I Loading variable from checkpoint: cudnn_lstm/rnn/multi_rnn_cell/cell_0/cudnn_compatible_lstm_cell/kernel
+I Loading variable from checkpoint: layer_1/bias
+I Loading variable from checkpoint: layer_1/weights
+I Loading variable from checkpoint: layer_2/bias
+I Loading variable from checkpoint: layer_2/weights
+I Loading variable from checkpoint: layer_3/bias
+I Loading variable from checkpoint: layer_3/weights
+I Loading variable from checkpoint: layer_5/bias
+I Loading variable from checkpoint: layer_5/weights
+I Loading variable from checkpoint: layer_6/bias
+I Loading variable from checkpoint: layer_6/weights
+I Models exported at fcltvx-out
+I Model metadata file saved to fcltvx-out/author_model_0.0.1.md. Before submitting the exported model for publishing make sure all information in the metadata file is correct, and complete the URL fields.
+
+Test epoch | Steps: 639 | Elapsed Time: 0:57:22                                   
+Test on datasets/commonvoicetest.csv - WER: 0.266805, CER: 0.145414, loss: 41.330223
+--------------------------------------------------------------------------------
+Best WER: 
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 63.247452
+ - wav: file://datasets/commonvoice/174/common_voice_es_20009014.wav
+ - src: "estas inestables discusiones fronterizas causaron mucha tensión entre los dos reinos"
+ - res: "estas inestables discusiones fronterizas causaron mucha tensión entre los dos reinos"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 62.925213
+ - wav: file://datasets/commonvoice/169/common_voice_es_19599961.wav
+ - src: "cada uno de ellos es un derecho exclusivo sujeto a ciertas limitaciones y excepciones"
+ - res: "cada uno de ellos es un derecho exclusivo sujeto a ciertas limitaciones y excepciones"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 62.905571
+ - wav: file://datasets/commonvoice/175/common_voice_es_19715204.wav
+ - src: "la capilla de la virgen tiene una imagen elaborada por el escultor jesús otero"
+ - res: "la capilla de la virgen tiene una imagen elaborada por el escultor jesús otero"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 62.597965
+ - wav: file://datasets/commonvoice/164/common_voice_es_19607414.wav
+ - src: "la inhalación del vapor puede originar edema pulmonar y dificultad respiratoria"
+ - res: "la inhalación del vapor puede originar edema pulmonar y dificultad respiratoria"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 61.484051
+ - wav: file://datasets/commonvoice/157/common_voice_es_19628596.wav
+ - src: "los cuatro equipos permanecen en sus respectivas divisiones para la próxima temporada"
+ - res: "los cuatro equipos permanecen en sus respectivas divisiones para la próxima temporada"
+--------------------------------------------------------------------------------
+Median WER: 
+--------------------------------------------------------------------------------
+WER: 0.181818, CER: 0.044776, loss: 32.128113
+ - wav: file://datasets/commonvoice/151/common_voice_es_20060290.wav
+ - src: "domenico permaneció al servicio del orfanato el resto de su carrera"
+ - res: "domenico permaneció en servicio del orfanato del resto de su carrera"
+--------------------------------------------------------------------------------
+WER: 0.181818, CER: 0.081967, loss: 32.069756
+ - wav: file://datasets/commonvoice/169/common_voice_es_19610239.wav
+ - src: "grabado y masterizado entre los estudios red led y la galería"
+ - res: "grabado y masterizado entre los estudios viales y la galería"
+--------------------------------------------------------------------------------
+WER: 0.181818, CER: 0.142857, loss: 31.923244
+ - wav: file://datasets/commonvoice/156/common_voice_es_19595615.wav
+ - src: "por su forma de juego ha sido comparado con wayne rooney"
+ - res: "por su forma de juego ha sido comparado con un rol"
+--------------------------------------------------------------------------------
+WER: 0.181818, CER: 0.047619, loss: 31.908112
+ - wav: file://datasets/commonvoice/158/common_voice_es_19607991.wav
+ - src: "diploma de reconocimiento a su invalorable contribución con nuestra gestión rectoral"
+ - res: "diploma de reconocimiento e invalorable contribución con nuestra gestión rectoral"
+--------------------------------------------------------------------------------
+WER: 0.181818, CER: 0.097222, loss: 31.527866
+ - wav: file://datasets/commonvoice/159/common_voice_es_19720354.wav
+ - src: "los servicios bibliotecarios de siero pasan a depender de esta fundación"
+ - res: "los servicios dinoterios de siero pasa a depender de esta fundación"
+--------------------------------------------------------------------------------
+Worst WER: 
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.529412, loss: 17.633749
+ - wav: file://datasets/commonvoice/170/common_voice_es_19696089.wav
+ - src: "yasushi matsumoto"
+ - res: "ya sus máximos"
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.562500, loss: 80.130142
+ - wav: file://datasets/commonvoice/171/common_voice_es_19958370.wav
+ - src: "sitio oficial peixonautauolcombr"
+ - res: "sitio oficial peruano el punto con poder"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.740741, loss: 107.013885
+ - wav: file://datasets/commonvoice/166/common_voice_es_19604961.wav
+ - src: "de estos sobrevivieron once"
+ - res: "sobre el ave esto sobrevive aun si"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.733333, loss: 33.329609
+ - wav: file://datasets/commonvoice/163/common_voice_es_19979020.wav
+ - src: "kazuya kawabata"
+ - res: "es suya que gobat"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.833333, loss: 26.746649
+ - wav: file://datasets/commonvoice/167/common_voice_es_19956662.wav
+ - src: "akiko kimura"
+ - res: "aquí co que mora"
+--------------------------------------------------------------------------------
+I Exporting the model…
+
+Test epoch | Steps: 655 | Elapsed Time: 0:30:09                                   
+Test on datasets/cltv-tatotest.csv - WER: 0.130387, CER: 0.045040, loss: 8.914152
+--------------------------------------------------------------------------------
+Best WER: 
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 38.870979
+ - wav: file://datasets/tatoeba-dataset/006/6963311.wav
+ - src: "a qué hora sale el autobús que va al aeropuerto"
+ - res: "a qué hora sale el autobús que va al aeropuerto"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 38.419903
+ - wav: file://datasets/tatoeba-dataset/066/4458421.wav
+ - src: "estoy empezando a sentir claustrofobia"
+ - res: "estoy empezando a sentir claustrofobia"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 36.649418
+ - wav: file://datasets/tatoeba-dataset/042/1134262.wav
+ - src: "las tres grandes religiones monoteístas son el cristianismo el islam y el judaísmo"
+ - res: "las tres grandes religiones monoteístas son el cristianismo el islam y el judaísmo"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 36.511997
+ - wav: file://datasets/tatoeba-dataset/078/1615880.wav
+ - src: "amamos a nuestra madre casi sin saberlo sin percibirlo como si fuera tan natural como el respirar"
+ - res: "amamos a nuestra madre casi sin saberlo sin percibirlo como si fuera tan natural como el respirar"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 34.082687
+ - wav: file://datasets/tatoeba-dataset/079/8314753.wav
+ - src: "para evitar lesiones es conveniente calentar primero"
+ - res: "para evitar lesiones es conveniente calentar primero"
+--------------------------------------------------------------------------------
+Median WER: 
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.350158
+ - wav: file://datasets/tatoeba-dataset/038/2454412.wav
+ - src: "hablo francés"
+ - res: "hablo francés"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.349189
+ - wav: file://datasets/tatoeba-dataset/054/1086503.wav
+ - src: "no como carne roja"
+ - res: "no como carne roja"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.348089
+ - wav: file://datasets/tatoeba-dataset/022/5946983.wav
+ - src: "añadió unos cuantos nombres"
+ - res: "añadió unos cuantos nombres"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.347554
+ - wav: file://datasets/tatoeba-dataset/141/6672154.wav
+ - src: "no se veía bien por la nieve"
+ - res: "no se veía bien por la nieve"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 1.347028
+ - wav: file://datasets/tatoeba-dataset/045/1283000.wav
+ - src: "lee este libro"
+ - res: "lee este libro"
+--------------------------------------------------------------------------------
+Worst WER: 
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.285714, loss: 5.806078
+ - wav: file://datasets/tatoeba-dataset/027/4505772.wav
+ - src: "escríbeme algo"
+ - res: "escribe me hago"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.230769, loss: 5.439069
+ - wav: file://datasets/tatoeba-dataset/130/5967505.wav
+ - src: "debes dárselo"
+ - res: "debe darse lo"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.095238, loss: 5.073105
+ - wav: file://datasets/tatoeba-dataset/143/5645692.wav
+ - src: "fui requeteafortunada"
+ - res: "fue requete afortunada"
+--------------------------------------------------------------------------------
+WER: 1.500000, CER: 0.300000, loss: 4.670871
+ - wav: file://datasets/tatoeba-dataset/067/1063319.wav
+ - src: "ya cenaste"
+ - res: "la cena se"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.357143, loss: 23.852259
+ - wav: file://datasets/tatoeba-dataset/065/4615234.wav
+ - src: "ellas danzarán"
+ - res: "ella es tan tarán"
+--------------------------------------------------------------------------------
+I Exporting the model…
+
+
+
+
+
+
+
+
+
+
+Test epoch | Steps: 227 | Elapsed Time: 0:33:55                                   
+Test on datasets/cltv-voxtest.csv - WER: 0.264033, CER: 0.122247, loss: 47.921425
+--------------------------------------------------------------------------------
+Best WER: 
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 43.119102
+ - wav: file://datasets/vox16/ciego-10122009/wav/06.wav
+ - src: "las autoridades sanitarias advierten que el tabaco perjudica seriamente la salud"
+ - res: "las autoridades sanitarias advierten que el tabaco perjudica seriamente la salud"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 39.187794
+ - wav: file://datasets/vox16/sg_ci_26-20141015-fgx/wav/es-0040.wav
+ - src: "los mismos ocultándose para volver a aparecer con regularidad casi mecánica"
+ - res: "los mismos ocultándose para volver a aparecer con regularidad casi mecánica"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 39.186371
+ - wav: file://datasets/vox16/sg_ci_4-20140604-urr/wav/es-0033.wav
+ - src: "todo estaba lo mismo que una hora antes cuando el té humeaba en la taza de ojeda ahora vacía y blanqueaban sobre la mesa los pliegos"
+ - res: "todo estaba lo mismo que una hora antes cuando el té humeaba en la taza de ojeda ahora vacía y blanqueaban sobre la mesa los pliegos"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 39.002857
+ - wav: file://datasets/vox16/Pablo-20140421-elo/wav/es-0021.wav
+ - src: "una vidriera de pared a pared formada de pequeños cristales biselados"
+ - res: "una vidriera de pared a pared formada de pequeños cristales biselados"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 38.187687
+ - wav: file://datasets/vox16/sg_ci_23-20140610-csw/wav/es-0018.wav
+ - src: "manteca y mermeladas el pan tostado husmear el perfume del té o seguir el burbujeo de las aguas minerales teñidas de jarabes y licores"
+ - res: "manteca y mermeladas el pan tostado husmear el perfume del té o seguir el burbujeo de las aguas minerales teñidas de jarabes y licores"
+--------------------------------------------------------------------------------
+Median WER: 
+--------------------------------------------------------------------------------
+WER: 0.200000, CER: 0.075000, loss: 22.015976
+ - wav: file://datasets/vox16/anonymous-20140705-esx/wav/es-0011.wav
+ - src: "dos salones agrandados por la escasez de su altura eran el campo visual de ojeda"
+ - res: "dos salones agrandados por las casas de su altura era el campo visual de ojeda"
+--------------------------------------------------------------------------------
+WER: 0.200000, CER: 0.079365, loss: 21.532133
+ - wav: file://datasets/vox16/grave-20111115-pwl/wav/es-0013.wav
+ - src: "las palmeras de invernáculo el verde pictórico de los enrejados"
+ - res: "las palmeras de invernáculo el veredicto rico de los enrejados"
+--------------------------------------------------------------------------------
+WER: 0.200000, CER: 0.071429, loss: 21.526031
+ - wav: file://datasets/vox16/MarkU-20110408-sgj/wav/es-0015.wav
+ - src: "de unas parras artificiales cuyas hojas parecían retazos de terciopelo"
+ - res: "de las parras artificiales cuyas hojas parecían retazos terciopelo"
+--------------------------------------------------------------------------------
+WER: 0.200000, CER: 0.075000, loss: 20.814308
+ - wav: file://datasets/vox16/sg_ci_5-20141116-ash/wav/es-0011.wav
+ - src: "dos salones agrandados por la escasez de su altura eran el campo visual de ojeda"
+ - res: "dos salones agrandados por las casas de su altura era el campo visual de ojeda"
+--------------------------------------------------------------------------------
+WER: 0.200000, CER: 0.024793, loss: 20.674810
+ - wav: file://datasets/vox16/sg_cm_26-20141101-pgg/wav/es-0027.wav
+ - src: "media docena de músicos uniformados lo mismo que los camareros agrupábanse sobre una tarima alrededor de un piano de cola"
+ - res: "media docena de músicos uniformados lo mismo que los camareros agrupaban se sobre una tarima al rededor de un piano de cola"
+--------------------------------------------------------------------------------
+Worst WER: 
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.545455, loss: 38.028378
+ - wav: file://datasets/vox16/FVera_ES_01/wav/18.wav
+ - src: "mi carro me lo robaron"
+ - res: "carmen romero"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.655172, loss: 36.075592
+ - wav: file://datasets/vox16/FVera_ES_01/wav/05.wav
+ - src: "clavó el gusano en el anzuelo"
+ - res: "la gusanera"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.500000, loss: 29.471897
+ - wav: file://datasets/vox16/Zeronius-20140606-lva/wav/es-0024.wav
+ - src: "estaban ocupados por señoras"
+ - res: "estaba dotado de poderes"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.600000, loss: 23.769215
+ - wav: file://datasets/vox16/MMarin_ES_01/wav/44.wav
+ - src: "qué puedo decir"
+ - res: "tipo de sir"
+--------------------------------------------------------------------------------
+WER: 1.000000, CER: 0.714286, loss: 22.037964
+ - wav: file://datasets/vox16/FVera_ES_01/wav/82.wav
+ - src: "he ido a recoger miel"
+ - res: "dorcel"
+--------------------------------------------------------------------------------
+I Exporting the model…
+
+
+
+
+
+
+
+Test on datasets/fcltv-test.csv - WER: 0.167008, CER: 0.078336, loss: 22.201721
+--------------------------------------------------------------------------------
+Best WER: 
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 63.247452
+ - wav: file://datasets/commonvoice/174/common_voice_es_20009014.wav
+ - src: "estas inestables discusiones fronterizas causaron mucha tensión entre los dos reinos"
+ - res: "estas inestables discusiones fronterizas causaron mucha tensión entre los dos reinos"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 62.925213
+ - wav: file://datasets/commonvoice/169/common_voice_es_19599961.wav
+ - src: "cada uno de ellos es un derecho exclusivo sujeto a ciertas limitaciones y excepciones"
+ - res: "cada uno de ellos es un derecho exclusivo sujeto a ciertas limitaciones y excepciones"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 62.905571
+ - wav: file://datasets/commonvoice/175/common_voice_es_19715204.wav
+ - src: "la capilla de la virgen tiene una imagen elaborada por el escultor jesús otero"
+ - res: "la capilla de la virgen tiene una imagen elaborada por el escultor jesús otero"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 62.597965
+ - wav: file://datasets/commonvoice/164/common_voice_es_19607414.wav
+ - src: "la inhalación del vapor puede originar edema pulmonar y dificultad respiratoria"
+ - res: "la inhalación del vapor puede originar edema pulmonar y dificultad respiratoria"
+--------------------------------------------------------------------------------
+WER: 0.000000, CER: 0.000000, loss: 61.484051
+ - wav: file://datasets/commonvoice/157/common_voice_es_19628596.wav
+ - src: "los cuatro equipos permanecen en sus respectivas divisiones para la próxima temporada"
+ - res: "los cuatro equipos permanecen en sus respectivas divisiones para la próxima temporada"
+--------------------------------------------------------------------------------
+Median WER: 
+--------------------------------------------------------------------------------
+WER: 0.071429, CER: 0.039474, loss: 22.044312
+ - wav: file://datasets/commonvoice/157/common_voice_es_19711839.wav
+ - src: "asalto al cine es una película donde cuatro jóvenes chata chale negus y sapo"
+ - res: "asalto al cine una película donde cuatro jóvenes chata chale negus y sapo"
+--------------------------------------------------------------------------------
+WER: 0.071429, CER: 0.057143, loss: 22.002626
+ - wav: file://datasets/commonvoice/166/common_voice_es_19989922.wav
+ - src: "hoy el diamante se exhibe en la nueva sala verde del palacio de dresde"
+ - res: "el diamante se exhibe en la nueva sala verde del palacio de dresde"
+--------------------------------------------------------------------------------
+WER: 0.071429, CER: 0.038961, loss: 21.948519
+ - wav: file://datasets/commonvoice/172/common_voice_es_20064962.wav
+ - src: "con el paso del tiempo su papel fue ampliándose a otras áreas de conocimiento"
+ - res: "con el paso del tiempo su papel fue ampliándose a otras es de conocimiento"
+--------------------------------------------------------------------------------
+WER: 0.071429, CER: 0.089744, loss: 21.816580
+ - wav: file://datasets/commonvoice/174/common_voice_es_20022861.wav
+ - src: "ambos niveles están comunicados por dos puentes uno de piedra y otro de hierro"
+ - res: "ambos niveles están comunicados por dos puentes uno de piedra y otro de"
+--------------------------------------------------------------------------------
+WER: 0.071429, CER: 0.028571, loss: 21.617268
+ - wav: file://datasets/commonvoice/160/common_voice_es_20026270.wav
+ - src: "algunas de sus series más conocidas son la serie roja y la serie negra"
+ - res: "algunas de sus series más conocidas son la serie roja y la serie era"
+--------------------------------------------------------------------------------
+Worst WER: 
+--------------------------------------------------------------------------------
+WER: 1.666667, CER: 0.562500, loss: 80.130142
+ - wav: file://datasets/commonvoice/171/common_voice_es_19958370.wav
+ - src: "sitio oficial peixonautauolcombr"
+ - res: "sitio oficial peruano el punto con poder"
+--------------------------------------------------------------------------------
+WER: 1.750000, CER: 0.740741, loss: 107.013885
+ - wav: file://datasets/commonvoice/166/common_voice_es_19604961.wav
+ - src: "de estos sobrevivieron once"
+ - res: "sobre el ave esto sobrevive aun si"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.733333, loss: 33.329609
+ - wav: file://datasets/commonvoice/163/common_voice_es_19979020.wav
+ - src: "kazuya kawabata"
+ - res: "es suya que gobat"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.833333, loss: 26.746649
+ - wav: file://datasets/commonvoice/167/common_voice_es_19956662.wav
+ - src: "akiko kimura"
+ - res: "aquí co que mora"
+--------------------------------------------------------------------------------
+WER: 2.000000, CER: 0.357143, loss: 23.852259
+ - wav: file://datasets/tatoeba-dataset/065/4615234.wav
+ - src: "ellas danzarán"
+ - res: "ella es tan tarán"
+--------------------------------------------------------------------------------
+I Exporting the model...
