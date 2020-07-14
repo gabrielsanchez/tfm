@@ -20,7 +20,7 @@ Estos son cuadernos que se utilizaron para analizar datasets, crear datasets y e
 
 [Entrenar modelo](https://gist.github.com/gabrielsanchez/9f1e96ff11adaf1ee98622c0cc800095)
 
-[Juntar Datasets](https://gist.github.com/gabrielsanchez/88c91ab13c1ff46112dfd0e7adb56157)
+[CSV shape](https://gist.github.com/gabrielsanchez/a105d0b6423bc490243c8e651dea998b)
 
 [Análisis comparativo Synthetic Speech](https://gist.github.com/gabrielsanchez/063ab3574252bf7883be3285be4cea19)
 
@@ -61,6 +61,13 @@ Estos son los datasets. Tatoeba y Synth Speech se crearon a partir de este proye
 
 [Synthetic Spanish](https://www.kaggle.com/gabrielsanchez/synthetic-spanish-speech)
 
+### CSV
+
+[Train](https://drive.google.com/file/d/10kzT45iBmbhduju9TLtf62Et9p4vFsM3/view?usp=sharing)
+
+[Dev](https://gist.github.com/gabrielsanchez/a105d0b6423bc490243c8e651dea998b)
+
+[Test](https://drive.google.com/file/d/10lG5SCxkiGoa2GeRoRcJoq1UMv87C0Ld/view?usp=sharing)
 
 #### Otros datasets que no se usaron:
 [TEDx Spanish Corpus](https://openslr.org/67/)
